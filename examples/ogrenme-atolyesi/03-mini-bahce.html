@@ -1,0 +1,31 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>3. Sınırlı kamera ve nesne · Öğrenme ortamı</title><style>*{box-sizing:border-box}body{margin:0;background:#101a1b;color:#f4eef7;font:17px/1.6 system-ui,sans-serif}main{max-width:800px;margin:auto;padding:36px 24px}h1{font-size:32px;line-height:1.2}p{color:#c5ceca}.tag{font-size:12px;letter-spacing:.12em;color:#c3aadf;text-transform:uppercase}input,button{font:inherit;border-radius:12px;padding:12px;border:1px solid #596465}input{color:inherit;background:#203032;max-width:100%}button{background:#c4afd9;color:#20172b;cursor:pointer;min-height:44px}button:disabled{opacity:.45;cursor:default}.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}section{padding:24px;background:#1b292a;border-radius:18px;margin:22px 0}li{margin:14px 0;display:flex;gap:14px;align-items:center;overflow-wrap:anywhere}label{cursor:pointer}#notice{min-height:2em;color:#ddd4a2}a{color:#d9c2f0}code{font-size:.9em}canvas{display:block;background:#7b9b7b;width:100%;border-radius:12px;touch-action:none}small{color:#b7c3be}#clock{font-size:72px;letter-spacing:.04em;font-variant-numeric:tabular-nums}</style></head><body><main><div class="tag">LumaNote · Bağımsız öğrenme ortamı</div><h1>3. Sınırlı kamera ve nesne</h1><p>Büyüt ve sürükle. Nesne taşıma modunda küçük bitkinin konumu değişir; kamera gezinmesinden ayrı tutulur.</p><div class="row"><label for="zoom">Büyüt</label><input id="zoom" type="range" min="1" max="3" step="0.05" value="1"><label><input type="checkbox" id="edit"> Nesneyi taşı</label><button id="fit">Sığdır</button></div><section><canvas id="garden" width="600" height="450" aria-label="Sürüklenebilir öğretici bahçe"></canvas></section><p id="position"></p><p id="notice" role="status" aria-live="polite"></p><p><small>Gerçek LumaNote verisine, jetonuna veya dosyalarına erişmez. Örnek kodu kaynak görünümünden inceleyebilirsin.</small></p></main><script>"use strict";
+const canvas = document.querySelector('#garden'), ctx = canvas.getContext('2d');
+const W=600,H=450; let zoom=1, panX=0,panY=0, drag=null; const plant={x:310,y:290};
+const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+function limits(){ panX=clamp(panX,-(W*zoom-W)/2,(W*zoom-W)/2); panY=clamp(panY,-(H*zoom-H)/2,(H*zoom-H)/2); }
+function point(e){ const r=canvas.getBoundingClientRect();return {x:(e.clientX-r.left)*W/r.width,y:(e.clientY-r.top)*H/r.height}; }
+function draw(){
+ limits(); ctx.setTransform(1,0,0,1,0,0);ctx.clearRect(0,0,W,H);
+ ctx.translate(W/2+panX,H/2+panY);ctx.scale(zoom,zoom);ctx.translate(-W/2,-H/2);
+ ctx.fillStyle='#8fad7d';ctx.fillRect(0,0,W,H);
+ ctx.fillStyle='#d4c29a';ctx.fillRect(90,0,52,H);ctx.fillRect(90,150,510,42);
+ ctx.fillStyle='#467985';ctx.fillRect(380,45,150,100);
+ ctx.fillStyle='#583d30';ctx.fillRect(30,40,15,60);ctx.fillRect(500,325,16,72);
+ ctx.fillStyle='#4b7047';ctx.fillRect(5,10,68,56);ctx.fillRect(470,288,78,63);
+ ctx.fillStyle='#806141';ctx.fillRect(plant.x-12,plant.y,24,22);
+ ctx.fillStyle='#355d3f';ctx.fillRect(plant.x-3,plant.y-24,6,28);
+ ctx.fillStyle='#d1aed1';ctx.fillRect(plant.x-12,plant.y-39,24,20);
+ ctx.setTransform(1,0,0,1,0,0);
+ document.querySelector('#position').textContent='Bitki: x='+Math.round(plant.x)+', y='+Math.round(plant.y)+' · Kamera: '+Math.round(panX)+', '+Math.round(panY);
+}
+document.querySelector('#zoom').oninput=e=>{zoom=Number(e.target.value);draw();};
+document.querySelector('#fit').onclick=()=>{zoom=1;panX=panY=0;document.querySelector('#zoom').value='1';draw();};
+canvas.onpointerdown=e=>{const p=point(e);drag={x:p.x,y:p.y,id:e.pointerId};canvas.setPointerCapture(e.pointerId);};
+canvas.onpointermove=e=>{
+ if(!drag||drag.id!==e.pointerId)return; const p=point(e),dx=p.x-drag.x,dy=p.y-drag.y;
+ if(document.querySelector('#edit').checked){plant.x=clamp(plant.x+dx/zoom,16,W-16);plant.y=clamp(plant.y+dy/zoom,40,H-25);}
+ else{panX+=dx;panY+=dy;}
+ drag.x=p.x;drag.y=p.y;draw();
+};
+canvas.onpointerup=canvas.onpointercancel=e=>{drag=null;};
+draw();</script></body></html>

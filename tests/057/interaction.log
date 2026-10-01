@@ -1,0 +1,19 @@
+PASS Two-finger zoom still works without +/- controls
+PASS Zoomed camera pans from pointer gesture
+PASS Double tap on empty garden resets zoom
+PASS Old tea collection can target greenhouse directly
+PASS Old tea object actually assigned greenhouse
+PASS Drag movable item works inside greenhouse
+PASS Rooms keep local state after serialized reopen
+PASS Focus uses garden, not last room, as passive background
+PASS Starting study clears room UI and does not hold input lock
+PASS Pause preserved
+PASS Resume preserved
+PASS Partial saved study earns existing 3 coins/minute
+PASS Repeated end has no duplicate reward
+PASS Break grants no coins
+PASS Formatting selected text still saves bold/color
+PASS Saved rich text reopens
+PASS All three audio arrangements decode in actual browser
+PASS No uncaught JS error in gestures/study/notes
+RESULT 18 / 18

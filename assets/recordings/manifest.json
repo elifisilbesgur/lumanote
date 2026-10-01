@@ -1,0 +1,16 @@
+{
+  "rain": {
+    "key": "rain",
+    "id": 412424,
+    "author": "DBlover",
+    "title": "Rain on concrete sound",
+    "page": "https://freesound.org/people/DBlover/sounds/412424/",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "kind": "recording",
+    "download": "https://cdn.freesound.org/previews/412/412424_7846219-hq.mp3",
+    "downloadedAt": "2026-09-30T23:48:23.751Z",
+    "sha256": "01389d88831bbacbe6351a97d824269ca57da659d99e8d58d3ff75f744c3e367",
+    "note": "Public MP3 preview. Playback gain and loop crossfade adapted. The author does not endorse LumaNote."
+  }
+}

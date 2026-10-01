@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+.luma/
+.env*
+*.log
+dist/
+.DS_Store
+assets/recordings/*.tmp

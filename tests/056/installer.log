@@ -1,0 +1,28 @@
+PASS Plain 054 updates
+PASS Test wallet disabled if not previously installed
+PASS package-lock preserved
+PASS Downloaded audio preserved
+PASS Unrelated private configuration preserved
+PASS Dependency versions and package version unchanged
+PASS Expo slug and identity unchanged
+PASS Only build metadata changed in app.extra
+PASS Backup ZIP created and validated
+PASS Repeat application is idempotent
+PASS Known wallet addon updates (True)
+PASS Wallet switch preserved (True)
+PASS Build includes wallet exactly once (True)
+PASS Native development gate retained (True)
+PASS Updated native test-wallet command can disable addon
+PASS Updated command can enable addon
+PASS Known wallet addon updates (False)
+PASS Wallet switch preserved (False)
+PASS Build includes wallet exactly once (False)
+PASS Native development gate retained (False)
+PASS Custom edits rejected without any file writes
+PASS Different SDK rejected without changing files
+PASS Symlink source target rejected
+PASS Spaces in path work
+PASS Verification failure restores every previous file
+PASS Rollback removes install lock
+PASS Manifest traversal rejected with no modifications
+RESULT 27 / 27

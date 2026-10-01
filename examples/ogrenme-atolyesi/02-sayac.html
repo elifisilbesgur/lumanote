@@ -1,0 +1,35 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>2. Zaman damgalı sayaç · Öğrenme ortamı</title><style>*{box-sizing:border-box}body{margin:0;background:#101a1b;color:#f4eef7;font:17px/1.6 system-ui,sans-serif}main{max-width:800px;margin:auto;padding:36px 24px}h1{font-size:32px;line-height:1.2}p{color:#c5ceca}.tag{font-size:12px;letter-spacing:.12em;color:#c3aadf;text-transform:uppercase}input,button{font:inherit;border-radius:12px;padding:12px;border:1px solid #596465}input{color:inherit;background:#203032;max-width:100%}button{background:#c4afd9;color:#20172b;cursor:pointer;min-height:44px}button:disabled{opacity:.45;cursor:default}.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}section{padding:24px;background:#1b292a;border-radius:18px;margin:22px 0}li{margin:14px 0;display:flex;gap:14px;align-items:center;overflow-wrap:anywhere}label{cursor:pointer}#notice{min-height:2em;color:#ddd4a2}a{color:#d9c2f0}code{font-size:.9em}canvas{display:block;background:#7b9b7b;width:100%;border-radius:12px;touch-action:none}small{color:#b7c3be}#clock{font-size:72px;letter-spacing:.04em;font-variant-numeric:tabular-nums}</style></head><body><main><div class="tag">LumaNote · Bağımsız öğrenme ortamı</div><h1>2. Zaman damgalı sayaç</h1><p>Deneme süresi saniyedir. Her 20 etkin saniye 1 örnek jeton üretir. Bu sayfa yenilendiğinde örnek oturum sıfırlanır.</p><div class="row"><label for="seconds">Saniye</label><input id="seconds" type="number" min="1" max="3600" value="20"><button id="start">Başlat</button></div><section><div id="clock" aria-live="off">00:20</div><div class="row"><button id="pause" disabled>Duraklat</button><button id="finish" disabled>Bitir ve kaydet</button></div><p>Örnek bakiye: <strong id="coins">0</strong></p></section><p id="notice" role="status" aria-live="polite"></p><p><small>Gerçek LumaNote verisine, jetonuna veya dosyalarına erişmez. Örnek kodu kaynak görünümünden inceleyebilirsin.</small></p></main><script>"use strict";
+let state = 'idle', planned = 20000, left = 20000, endAt = 0, coins = 0;
+let sessionId = 0; const rewarded = new Set();
+const $ = q => document.querySelector(q);
+function remain() { return state === 'running' ? Math.max(0, endAt - Date.now()) : left; }
+function paint() {
+  const seconds = Math.ceil(remain() / 1000);
+  $('#clock').textContent = String(Math.floor(seconds / 60)).padStart(2,'0') + ':' + String(seconds % 60).padStart(2,'0');
+  $('#pause').disabled = !['running','paused'].includes(state);
+  $('#finish').disabled = !['running','paused'].includes(state);
+  $('#start').disabled = ['running','paused'].includes(state);
+  $('#pause').textContent = state === 'paused' ? 'Devam et' : 'Duraklat';
+  $('#coins').textContent = String(coins);
+}
+$('#start').onclick = () => {
+  if (['running','paused'].includes(state)) return;
+  const seconds = Number($('#seconds').value);
+  if (!Number.isFinite(seconds) || seconds < 1 || seconds > 3600) { $('#notice').textContent = '1–3600 saniye gir.'; return; }
+  planned = Math.round(seconds * 1000); left = planned; endAt = Date.now() + left; state = 'running'; sessionId++;
+  $('#notice').textContent = 'Oturum başladı.'; paint();
+};
+$('#pause').onclick = () => {
+  if (state === 'running') { left = remain(); state = 'paused'; }
+  else if (state === 'paused') { endAt = Date.now() + left; state = 'running'; }
+  paint();
+};
+function finish() {
+  if (!['running','paused'].includes(state) || rewarded.has(sessionId)) return;
+  left = remain(); const worked = Math.max(0, planned - left);
+  const award = Math.floor(worked / 20000); rewarded.add(sessionId); coins += award; state = 'finished';
+  $('#notice').textContent = 'Kaydedilen örnek süre: ' + Math.floor(worked/1000) + ' sn. +' + award + ' jeton.'; paint();
+}
+$('#finish').onclick = finish;
+setInterval(() => { if (state === 'running' && remain() === 0) finish(); paint(); }, 100);
+paint();</script></body></html>

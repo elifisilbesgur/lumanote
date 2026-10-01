@@ -1,0 +1,78 @@
+[
+  {
+    "name": "repair in path with spaces",
+    "passed": true
+  },
+  {
+    "name": "existing dependency lock unchanged",
+    "passed": true
+  },
+  {
+    "name": "existing dependency tree unchanged",
+    "passed": true
+  },
+  {
+    "name": "custom scripts and dependencies preserved",
+    "passed": true
+  },
+  {
+    "name": "app slug and private fields preserved",
+    "passed": true
+  },
+  {
+    "name": "native data storage service untouched",
+    "passed": true
+  },
+  {
+    "name": "private local file unchanged",
+    "passed": true
+  },
+  {
+    "name": "verified backup created",
+    "passed": true
+  },
+  {
+    "name": "backup contains original source",
+    "passed": true
+  },
+  {
+    "name": "backup keeps package lock and private env",
+    "passed": true
+  },
+  {
+    "name": "backup excludes node_modules",
+    "passed": true
+  },
+  {
+    "name": "idempotent repair can be re-run",
+    "passed": true
+  },
+  {
+    "name": "custom code rejected without overwrite",
+    "passed": true
+  },
+  {
+    "name": "wrong SDK rejected",
+    "passed": true
+  },
+  {
+    "name": "target source symlink rejected",
+    "passed": true
+  },
+  {
+    "name": "build validation failure reported",
+    "passed": true
+  },
+  {
+    "name": "transaction restores every original file",
+    "passed": true
+  },
+  {
+    "name": "failed transaction retains backup",
+    "passed": true
+  },
+  {
+    "name": "repair package still verifies source",
+    "passed": true
+  }
+]

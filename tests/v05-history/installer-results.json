@@ -1,0 +1,69 @@
+{
+  "environment": "Linux bash/zip; fake npx, no packages installed",
+  "checks": [
+    {
+      "name": "Launcher completes backup branch",
+      "pass": true
+    },
+    {
+      "name": "One timestamped source backup created",
+      "pass": true
+    },
+    {
+      "name": "ZIP is intact",
+      "pass": true
+    },
+    {
+      "name": "Backup includes source and dependency lock",
+      "pass": true
+    },
+    {
+      "name": "Temporary node_modules excluded",
+      "pass": true
+    },
+    {
+      "name": "Private config retained only in local user backup",
+      "pass": true
+    },
+    {
+      "name": "Original project files unchanged",
+      "pass": true
+    },
+    {
+      "name": "Backup marker records successful archive",
+      "pass": true
+    },
+    {
+      "name": "Node execution starts after verified backup",
+      "pass": true
+    },
+    {
+      "name": "Second launch does not duplicate initial backup",
+      "pass": true
+    },
+    {
+      "name": "Backup failure aborts before npm/npx",
+      "pass": true
+    },
+    {
+      "name": "Failed backup is not marked complete",
+      "pass": true
+    },
+    {
+      "name": "Missing old project is not called backed up",
+      "pass": true
+    },
+    {
+      "name": "Bash syntax BASLAT.command",
+      "pass": true
+    },
+    {
+      "name": "Bash syntax TUNEL_ILE_BASLAT.command",
+      "pass": true
+    },
+    {
+      "name": "Bash syntax SESLERI_INDIR.command",
+      "pass": true
+    }
+  ]
+}

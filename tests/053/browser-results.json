@@ -1,0 +1,407 @@
+[
+  {
+    "name": "fresh boot",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "theme switch nocturne",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch midnight",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch obsidian",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch rose",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch ember",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch aurora",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch ocean",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch forest",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "theme switch garden",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "name": "route home",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route notes",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route calendar",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route garden",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route shop",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route weekly",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route backup",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route settings",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route themes",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "route focus",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "portrait aspect ratio 3:4",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "one scene mounted",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "ordinary drag leaves camera at origin",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "ordinary drag does not move owned items",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "plus zoom works",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "zoomed drag also keeps camera fixed",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "zoom max bounded",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "fit button resets zoom",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "right arrow updates item only",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "left arrow restores x",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "up arrow updates y",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "down arrow restores y",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "edit drag moves item without moving camera",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "coordinate normalization preserves item",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "nursery under garden",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "three restored seed cards",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "seed title and remaining time",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "manual watering animation active",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "watering not free money or growth",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scenery profile night",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scenery profile meadow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scenery profile pond",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scenery profile autumn",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scenery profile snow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scenery profile cosmic",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "night scenery is night",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "meadow scenery is day",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pond automatic rain",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "snow automatic snow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "touch swipe grip dismisses sheet",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "touch swipe title dismisses sheet",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "small drag snaps sheet back",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "horizontal swipe does not dismiss",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "scrolling body is not dismissed mid-list",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "body downward swipe dismisses at top",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "textarea gesture not dismissed",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "sheet closure clears interaction lock",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "repeated sheets still dismiss",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "named companion restored",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "fullscreen has no companion overlay",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "fullscreen navigation hidden",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "landscape clock fits viewport",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "start unblocks despite hung native notification",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pause unblocks despite hung optional operation",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pause keeps remaining time",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "resume unblocks",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "partial record grants 3 coins per minute",
+    "passed": true,
+    "detail": 6
+  },
+  {
+    "name": "double finish records once",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "finish releases focus lock",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "partial finish prepares rest",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "break grants no coins",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "rest prepares study",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "coin completion not blocked by hung bell",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "completed session earns coins once",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "failed start rolls back timer",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "failed completion rolls back reward and timer",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "render cycles keep at most one background scene",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "paused scene has no scheduled timer",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "resumed scene runs once",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "reduced motion stops continuous scene loop",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "no uncaught browser errors",
+    "passed": true,
+    "detail": []
+  }
+]

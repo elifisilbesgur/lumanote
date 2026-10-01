@@ -1,0 +1,98 @@
+[
+  {
+    "name": "two-finger zoom works through browser touch input",
+    "passed": true
+  },
+  {
+    "name": "pinch does not scale the entire application",
+    "passed": true
+  },
+  {
+    "name": "pinch leaves camera within bounds",
+    "passed": true
+  },
+  {
+    "name": "single-finger page scroll does not pan garden",
+    "passed": true
+  },
+  {
+    "name": "page can scroll to the restored nursery",
+    "passed": true
+  },
+  {
+    "name": "growth is based on accumulated study seconds",
+    "passed": true
+  },
+  {
+    "name": "harvest frees pot and creates planted garden item",
+    "passed": true
+  },
+  {
+    "name": "garden fits screen width 320",
+    "passed": true
+  },
+  {
+    "name": "portrait canvas height 320",
+    "passed": true
+  },
+  {
+    "name": "sheet inside viewport 320",
+    "passed": true
+  },
+  {
+    "name": "garden fits screen width 375",
+    "passed": true
+  },
+  {
+    "name": "portrait canvas height 375",
+    "passed": true
+  },
+  {
+    "name": "sheet inside viewport 375",
+    "passed": true
+  },
+  {
+    "name": "garden fits screen width 390",
+    "passed": true
+  },
+  {
+    "name": "portrait canvas height 390",
+    "passed": true
+  },
+  {
+    "name": "sheet inside viewport 390",
+    "passed": true
+  },
+  {
+    "name": "garden fits screen width 430",
+    "passed": true
+  },
+  {
+    "name": "portrait canvas height 430",
+    "passed": true
+  },
+  {
+    "name": "sheet inside viewport 430",
+    "passed": true
+  },
+  {
+    "name": "garden fits screen width 768",
+    "passed": true
+  },
+  {
+    "name": "portrait canvas height 768",
+    "passed": true
+  },
+  {
+    "name": "sheet inside viewport 768",
+    "passed": true
+  },
+  {
+    "name": "full garden has hidden navigation",
+    "passed": true
+  },
+  {
+    "name": "full garden logical fit does not retain a pan offset",
+    "passed": true
+  }
+]

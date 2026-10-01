@@ -1,0 +1,401 @@
+{
+  "environment": "Chromium / memory localStorage / no native APIs / no PDF vendor",
+  "checks": [
+    {
+      "name": "Initial schema 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fresh installs have no invented coin balance",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Nine themes including personal garden",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Ten available seeds",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Seven study choices including custom",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Original strawberry and pumpkin sprites",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Paper normalization rejects unknown kind",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Ink normalization rejects invalid points",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Future schema fails rather than replacing state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Migration preserves historical balance",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "New seconds use 3/min without retroactive multiplier",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Schema 3 reload keeps same balance",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Garden canvas mounted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Default world has scenery hit targets and three pots",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Garden zoom controls installed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Garden fullscreen hides navigation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Garden fullscreen canvas fits viewport",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Explicit zoom increments scale",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Exit full garden restores normal layout",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Rain and time choice persisted in state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Garden weather independent of audio",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Rendering does not leak canvas instances",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Plant seed occupies only selected pot",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Immature plant cannot be transplanted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Manual watering gives no time or coins",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "New growth stage queues watering",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mature plant moves into garden and frees pot",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Harvest is idempotent",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Duplicate animal purchase not charged twice",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Insufficient coins never create purchase",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Focus uses personal garden state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen focus shows only clock and backdrop",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen controls start visually hidden",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Tap reveals exit controls",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Landscape has no horizontal overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Landscape counter stays inside viewport",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Clock style simple",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Clock style pixel",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Clock style flip",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Starting session awards no coins",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Pause keeps session without reward",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Pause survives serialized reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Resume keeps remaining duration",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Partial work rewards recorded seconds only",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Partial save offers configured rest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Repeated completion cannot double award",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Break creates no coins or focus session",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fourth pomodoro proposes long rest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "25 full minutes yields 75 coins",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Flowtime is count-up mode",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Flow clock shows elapsed 10 minutes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Flowtime computes adjustable suggested rest",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reward overlay has rotating center coin",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reward coin flies toward wallet",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reward overlay completes and removes itself",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Notes add control is fixed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "One-step new note opens editor",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Note write persists content",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sanitizer permits editable table but not script",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Grid handwriting paper opens",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Real pointer handwriting records stroke",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Handwriting undo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Handwriting redo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Ink remains in note after close",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Returning list has written note",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Long press opens trash menu without opening note",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Trash is reversible and list removes note",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Undo restores same note",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Bottom sheet dismisses by drag",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Add button stays visible after many notes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Schema reload preserves all notes and ink",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Paper drawer has photo option and five paper kinds",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Mixer contains independent piano and nature channels",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Undownloaded audio labelled synthesized rather than real recording",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fallback piano and nature data embedded for offline use",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "PDF missing library fails explicitly, not a silent share-only substitute",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "PDF overlay does not orphan active stroke on repaint",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "PDF coordinates remain normalized",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No uncaught browser exceptions",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "uncaught_errors": []
+}

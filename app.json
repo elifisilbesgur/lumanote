@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "LumaNote · Yaşayan Bahçe",
+    "slug": "lumanote-yasayan-bahce",
+    "version": "0.5.7",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#090a12",
+    "splash": {
+      "backgroundColor": "#090a12"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Seçtiğin fotoğrafları LumaNote notlarına eklemek için kullanılır."
+      },
+      "requireFullScreen": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "extra": {
+      "lumaNocturneBuild": "LUMA-0.5.7-HOME-GREENHOUSE"
+    },
+    "plugins": [
+      "expo-audio",
+      "expo-sharing",
+      "expo-status-bar"
+    ]
+  }
+}

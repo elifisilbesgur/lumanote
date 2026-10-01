@@ -1,0 +1,19 @@
+PASS pianoMoon stereo 44.1 kHz MP3 
+PASS pianoMoon duration matches manifest 
+PASS pianoMoon SHA256 matches metadata 
+PASS pianoMoon finite non-silent and no hard clipping {'peak': 0.5168310403823853, 'rms': 0.0775696188211441}
+PASS pianoMoon distinct written event score exists 
+PASS pianoDawn stereo 44.1 kHz MP3 
+PASS pianoDawn duration matches manifest 
+PASS pianoDawn SHA256 matches metadata 
+PASS pianoDawn finite non-silent and no hard clipping {'peak': 0.4780445992946625, 'rms': 0.07756032049655914}
+PASS pianoDawn distinct written event score exists 
+PASS pianoSakura stereo 44.1 kHz MP3 
+PASS pianoSakura duration matches manifest 
+PASS pianoSakura SHA256 matches metadata 
+PASS pianoSakura finite non-silent and no hard clipping {'peak': 0.42859989404678345, 'rms': 0.0775780975818634}
+PASS pianoSakura distinct written event score exists 
+PASS Different meters across all three 
+PASS Different tempos across all three 
+PASS Distinct event density, not one renamed file 
+RESULT 18 / 18

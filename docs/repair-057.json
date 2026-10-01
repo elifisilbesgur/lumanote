@@ -1,0 +1,782 @@
+{
+  "build": "LUMA-0.5.7-HOME-GREENHOUSE",
+  "files": [
+    {
+      "path": "App.tsx",
+      "newSha256": "349f89fe0082f01686c0310760beed917d69969ea9327162b87043249f6ae30d",
+      "allowedOldSha256": [
+        "0093018ca449dd9b2b8137028c86e3f37382d8408bc6f4b413a6ec1007b3cd9a",
+        "28d590f8474e2c68e81409d4336291ff3956949443ae2adbc1fb8452bef4877e",
+        "49a67fc036401a0c36e29280de5f0cba7293430136d15c4f9a8f8c5c721f5142",
+        "5f67a6489d04b93adceb4d7c9381d94c608d68903984bdfe0970dba3c594238e",
+        "b4efb9a5674a4b0f65014294984a0ca0ad4a52cff99fabe78d1e624fc2f8dddd",
+        "fb6378e79eb7e52bb0eb08efad585df45bb20b8ef97f782bf6a19914e23c7cd1"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "BASLAT.command",
+      "newSha256": "191fcabce505305ab8488813e72ca529f8dd32baad679e03860e124b05acce54",
+      "allowedOldSha256": [
+        "01d609dd51811cec75ef6efbaf5c252f70b663185c9aeb55060a8796402d6cba",
+        "45f0466a49ee5e587c4ed406b22fde179a98394b4573da39ab784de53d198a67",
+        "a3d82fd49f5e8728e0bf9cac2f51b1ef3f4662127fab22332192dadf83196a52",
+        "b365ae51db60076eaa3bad81eedcd1b7d1e28539d5cb14a3300a0316a43c008e",
+        "ce03da1813926cfaef069f4f96729c692f052f2f6291bc1b77641f9f511d803a"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "README_TR.md",
+      "newSha256": "a47ef2cd6deae2982cc93aa32257421eddb7f3c3ceaa3d0db62376d8068cbace",
+      "allowedOldSha256": [
+        "1175951ed942a294e0f49135a28b3e79b114fb1982c07d8088eed224716b5669",
+        "2130e274d2ba3ad64cd5f096dc3b98fbfe20e0447465ee39a6c0bba37e86c092",
+        "5068fe4391e662806632be66739ad3498deb6da66ac7656e87b6b7194a61676c",
+        "5733804b95b9d7f9798e37925b357bb8315b600743b6a4c541f79d679850c5cd",
+        "c2678e6e78cccb3889ed6803d0f5f681f9b2296022ba1039d35cfc54e044a6f2"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "TEST_JETONLARI.command",
+      "newSha256": "06444210c6d69879707a779e161c521267cd7deba42244c4e872e61bce74dfe5",
+      "allowedOldSha256": [
+        "06444210c6d69879707a779e161c521267cd7deba42244c4e872e61bce74dfe5"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "assets/atelier/fire.mp3",
+      "newSha256": "2001446fc39865164b225b1c90fefba33255be40af60443d9fd5b3d3650533c5",
+      "allowedOldSha256": [
+        "2001446fc39865164b225b1c90fefba33255be40af60443d9fd5b3d3650533c5"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "assets/atelier/manifest.json",
+      "newSha256": "e6bfda3539f3bbe12e9e00e69daed50531988903a7ede0e90e1ba6b51b303502",
+      "allowedOldSha256": [
+        "19e14b464eb3333009747a26a22e9ef952d27c8cda90a677cfb734a7401aaec9"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "assets/atelier/ocean.mp3",
+      "newSha256": "a5c2354b12f4699030167f79cdba305c9b48106298145f046718ccb999b69f78",
+      "allowedOldSha256": [
+        "a5c2354b12f4699030167f79cdba305c9b48106298145f046718ccb999b69f78"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "assets/atelier/pianoDawn.mp3",
+      "newSha256": "92205097330c9e59e28ab86adcaf54f23b087ca402ee366dbc959a49d1085231",
+      "allowedOldSha256": [
+        "df0f0ede1199bb5da819de06eb2f508aa66ed98616ed1ce1bf405153c271d273"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "assets/atelier/pianoMoon.mp3",
+      "newSha256": "bd58d6b04a9e231b008cca24ba90cafb3ce1292319c7d1da23a4874d9c792342",
+      "allowedOldSha256": [
+        "8dab3a5961febe7dc2230c067fb20f7878d068d0fc6bc465cf0eea00bbd92756"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "assets/atelier/pianoSakura.mp3",
+      "newSha256": "5822d8650d0cba8cc4af00cc23ca98fe98e200fcff747193f40b24bb73c21540",
+      "allowedOldSha256": [
+        "1b348926e43953ddd2169c0543b9558f9f6c91194365ed7c33e2804060ff6c80"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "index.js",
+      "newSha256": "21a744a14fc0abd6a633ea19000229a598a300c98bb0087bb33696c93ebd2168",
+      "allowedOldSha256": [
+        "2b0199fd31066ac129fa437bace005ecd6fc766f8c287e0217e2444ec116df03",
+        "2b60be31eec93b717295773e0881620534ff747604d0461149cfb34fd1234cae",
+        "89a22bcc83b9de2d7e745118636b43791c11b075c611edeabf6a97156df4bd24",
+        "8e3a22f8c56f05b7d08a738ce90638e5237272b85dc94bd6af39c5b3171787b3",
+        "d50fef284226a0d26d8c4306105cc9d910f0b5d49ebfaf1c806eca714ef42b49"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "licenses/Atelier-Audio-056.md",
+      "newSha256": "450eab24b8a50866ec70fc251405583d5ce9c485673b174a003dd4cb412a722a",
+      "allowedOldSha256": [
+        "0439e9c30d6fa5318c6373ee84724d290b313efe02eebdcae4771b53b3fc8de4"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "metro.config.js",
+      "newSha256": "b5937e05046dc23991bccfcd0017de1b22569868758a04761720b9832b12fe4c",
+      "allowedOldSha256": [
+        "1b801de05c908cc3d91b95d8e4f271e0bcb43c63cf40339f9813f3fbf73cc72c",
+        "b5937e05046dc23991bccfcd0017de1b22569868758a04761720b9832b12fe4c"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "nocturne/AudioEngine.tsx",
+      "newSha256": "60261b2388f12263cf53ec7026431f49c75617078a00064c50548a5939368b2f",
+      "allowedOldSha256": [
+        "60261b2388f12263cf53ec7026431f49c75617078a00064c50548a5939368b2f",
+        "82373d867b9640e9ee9cee5574713ee298919a4c57737c70d92ff0970b74fd92",
+        "e59425cc402ffefbe58131ae86a9ad609bb23ddb386fb0678887de65c5bdd71c"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "nocturne/BackupCrypto.ts",
+      "newSha256": "e80f066c34b42dcbb9a8636842e97bbe2f8c70bdc4386c566a48204d98ebffdd",
+      "allowedOldSha256": [
+        "e80f066c34b42dcbb9a8636842e97bbe2f8c70bdc4386c566a48204d98ebffdd"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "nocturne/NativeServices.ts",
+      "newSha256": "2b2e0f97787b324d183759398958b3490ca1c887cbec81b83ff298b07f931103",
+      "allowedOldSha256": [
+        "2b2e0f97787b324d183759398958b3490ca1c887cbec81b83ff298b07f931103",
+        "3ae9c53f62f7ab48194fcf29ff7ad80d84ab2a05ee5dbe36d293775729c13b97"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "nocturne/NobleCrypto.ts",
+      "newSha256": "0f705f568eae4702cba0355277e162694f5a6fba40bb06db532b0a6dca20a41a",
+      "allowedOldSha256": [
+        "0f705f568eae4702cba0355277e162694f5a6fba40bb06db532b0a6dca20a41a"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "nocturne/types.ts",
+      "newSha256": "267ca72db10616440fedb86aecdc2bc3ef4fc5c9f4118fa78d4e499b2d1a0fe8",
+      "allowedOldSha256": [
+        "267ca72db10616440fedb86aecdc2bc3ef4fc5c9f4118fa78d4e499b2d1a0fe8"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/build-ui.cjs",
+      "newSha256": "86add5cfc9496092f4e965518d6cda61c20e3e909c04f1a11b8522f4aa5972f5",
+      "allowedOldSha256": [
+        "451ee32519f56986985e6de78824e19adb3bd66038b91ea713925f2a47631da0",
+        "56d0cd1892dfb59a3c19edeb1b931d6fa87552e23339aebcac8657e8b9a97dde",
+        "aac56b0359405dca535b4c21821ecf797168502cf7a9d348b5ae91ce839e3be4",
+        "c83dda96d5119d6f07794c1ac8925faf316172b61338c0f757109bb30a1ad8d6",
+        "d678d7987595bef358bd016c46a35f275707a0dfd4583267a0be5bb40cfb61ae",
+        "dd5addeb9a2868e561f08ed8fbc85975d172a2ef9bb4da48e1fcd2734d6db6ee"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/generate-atelier-audio.py",
+      "newSha256": "bc2068a7dc3bf7638ba8c4393ad2eb8f773b77dd5f86c43b32bf691cd5f1468e",
+      "allowedOldSha256": [
+        "bc2068a7dc3bf7638ba8c4393ad2eb8f773b77dd5f86c43b32bf691cd5f1468e"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/setup.cjs",
+      "newSha256": "8bd512383b723a425dbe39893d912005d39d6dbbb4da33ee44f62269b4370f49",
+      "allowedOldSha256": [
+        "15fd03816f1b6692f6cf908766ee24eefc92ff93dc16796d347f40038ed052dc",
+        "6cc64363ea2bbb6423ccf4519c8136b0c3e458c0e9bb119257556a9dada88d13",
+        "78286b638daeadd48b763c549f5c112d089f7a0580b9b6a0ee95df06ac4d26e2",
+        "dd46c9cef6b2f4e9e0fae19834375a339bc93b02f1b663f8c448612ce67f8f2a",
+        "edcc99a13c6788a1d11fbe7fcb4bbac85d6dba745bbd9799538b4ee8d7a01d15"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/toggle-test-coins.cjs",
+      "newSha256": "e6bfd5626efd01570ed4fd08530c45f961b4ec358a75b23fb09eebc1fe9a4e3f",
+      "allowedOldSha256": [
+        "2f325adea265b5c67cb6ccbe3860deb7b69b1fdaf849878739d6568fb3e86427",
+        "e6bfd5626efd01570ed4fd08530c45f961b4ec358a75b23fb09eebc1fe9a4e3f"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/atelier-art.js",
+      "newSha256": "22b454c2d5210b146c57dce7ef9e3e0a1d21c50ce95b5d3f1fe57476af4b6dd1",
+      "allowedOldSha256": [
+        "22b454c2d5210b146c57dce7ef9e3e0a1d21c50ce95b5d3f1fe57476af4b6dd1"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/atelier-audio.js",
+      "newSha256": "5b2720c7778ff864a3645fc48b5fcea8a3a2205823e67c7f39033ffb7d11f4ff",
+      "allowedOldSha256": [
+        "5b2720c7778ff864a3645fc48b5fcea8a3a2205823e67c7f39033ffb7d11f4ff"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/atelier-garden.js",
+      "newSha256": "c9c28297df875ac3b8f131bd8a106accaa809312dd8289d4763e83af4f50a8ad",
+      "allowedOldSha256": [
+        "04e219511f2bd667e9e7ab5c91455609a77e523375841c0cba8038ff615f2c97"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/atelier-model.js",
+      "newSha256": "a236b27cca1ae82b106e339f3b38dc0a99975ec64ed43e190ad74654084f01fa",
+      "allowedOldSha256": [
+        "a236b27cca1ae82b106e339f3b38dc0a99975ec64ed43e190ad74654084f01fa"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/atelier-themes.js",
+      "newSha256": "b27f1109c2be3ba9d4f8da69503d939bb2fe1e2bce245b6a0880b9a8d32c2b1b",
+      "allowedOldSha256": [
+        "b27f1109c2be3ba9d4f8da69503d939bb2fe1e2bce245b6a0880b9a8d32c2b1b"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/atelier.css",
+      "newSha256": "1c4070a4c6d3014f40b6635981040d68464eeff227d52ecf61ec0c5d30bb5e4d",
+      "allowedOldSha256": [
+        "1c4070a4c6d3014f40b6635981040d68464eeff227d52ecf61ec0c5d30bb5e4d"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/backup.js",
+      "newSha256": "e8db10e268c4dd5dac4bf306f7a85ff11a4855b2a26f9f7ac60f2a61dc6cbead",
+      "allowedOldSha256": [
+        "e8db10e268c4dd5dac4bf306f7a85ff11a4855b2a26f9f7ac60f2a61dc6cbead"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/browser.js",
+      "newSha256": "47290f1415c28bdac5b9522537b3d81ac61724978e2176874cffd9a2514bee66",
+      "allowedOldSha256": [
+        "47290f1415c28bdac5b9522537b3d81ac61724978e2176874cffd9a2514bee66"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/core.js",
+      "newSha256": "33c723ff0481a436b398157ffc2d0920efa429791989306edb195890f0a14dd8",
+      "allowedOldSha256": [
+        "2ee7daaeae039992b8bf1157f77333108832a88aba98b43ee7e48b0f26fdb3f2",
+        "485006613408cc3d8c7213d04b12cb3db7f6f0caaff9e23c6fa52abf6bcef88a",
+        "8c1e3bb6c31197c6dcdde6b8e685cf4105abb83d29bfca405be08442e20e83a3",
+        "d7db4e220a5f87c87a2cf41c1804e483ae0523f2e26e0f017ede9e25b9effec2"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/editor-v04.js",
+      "newSha256": "e92e8ec7807c7796c3d181fff9cfc2f1c7aec036f5514d03f18f04207344cfe8",
+      "allowedOldSha256": [
+        "e92e8ec7807c7796c3d181fff9cfc2f1c7aec036f5514d03f18f04207344cfe8"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/editor.js",
+      "newSha256": "a430e1728186ef202fdc668f62a1cfae7d4dc6a8e1610bb874c0b2bf9e6e81d2",
+      "allowedOldSha256": [
+        "a430e1728186ef202fdc668f62a1cfae7d4dc6a8e1610bb874c0b2bf9e6e81d2"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/enhancements.js",
+      "newSha256": "15034448980a51c8e2a2799af5a4b3cb684996cc4d99adc956d25cb34630b6db",
+      "allowedOldSha256": [
+        "15034448980a51c8e2a2799af5a4b3cb684996cc4d99adc956d25cb34630b6db"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/events.js",
+      "newSha256": "8b2aef838746fe1be6172590b7ee02a91b1181d7db5d39e9f6f7f9934d533e77",
+      "allowedOldSha256": [
+        "8b2aef838746fe1be6172590b7ee02a91b1181d7db5d39e9f6f7f9934d533e77",
+        "f8616b31bf972efc5643bc72f4f0a8ccd1fc694f69812aa35152afc33b438722"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/focus.js",
+      "newSha256": "de2012fbef49aa5172d3e6fb8f6afd23e8afb20b4f6b9890f68ab5c8b264cb3c",
+      "allowedOldSha256": [
+        "de2012fbef49aa5172d3e6fb8f6afd23e8afb20b4f6b9890f68ab5c8b264cb3c"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/index.html",
+      "newSha256": "d725944c5accdc8caa68157579e91d9721135ef7f78c00e5f524beeaf164b014",
+      "allowedOldSha256": [
+        "ef144a90eb55edade4efa8681aa763f5a6f70bd2708daad0fd5de35987e09f48"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/lava.js",
+      "newSha256": "928516445663f8a446bc344aa0d8934c9f3b943f5771eedeb1d24f57606889d1",
+      "allowedOldSha256": [
+        "39cbe4192d13fb77d23a6f8c2ce63c40997cb923db3a7114d6db8c2b96588011",
+        "7f6e36d451dd1fb82d1cc2bf441608c35e4ea772f7b76f846c3fdbc1d97bfddc",
+        "928516445663f8a446bc344aa0d8934c9f3b943f5771eedeb1d24f57606889d1"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-audio.js",
+      "newSha256": "535525cf03874c4bd961a465282d0e47d08b2c43437c61fd3ca445727f99566b",
+      "allowedOldSha256": [
+        "328b6bc2f7cf2fdbe5815f237edcc7a7539818774c21fb284fe4c05b736dc6e2",
+        "535525cf03874c4bd961a465282d0e47d08b2c43437c61fd3ca445727f99566b",
+        "70f9e9d004eb4107018216870464ae5965604bc8e60bd322ff2e0d052b037036"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-focus.js",
+      "newSha256": "ef4e561b73cfda25f8fd6f0c0a35fd3fd84a5066aabc2d40d0b9407099d2889c",
+      "allowedOldSha256": [
+        "cc4def99ea78006e4f8b9eef18ebaae90d70118ec980524a04a6ff7698abdc9d",
+        "ef4e561b73cfda25f8fd6f0c0a35fd3fd84a5066aabc2d40d0b9407099d2889c"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-garden.js",
+      "newSha256": "083114238e471691642b79ed1a50f7e11ae651e15bea252faa974d3f2c0e7bd3",
+      "allowedOldSha256": [
+        "083114238e471691642b79ed1a50f7e11ae651e15bea252faa974d3f2c0e7bd3"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-model.js",
+      "newSha256": "8d06ee0cd139226b33d4e2b2e8e2052da9d7a6b82b6f3aeaa4014797f430be83",
+      "allowedOldSha256": [
+        "117798693dc6bb550eb67ae781e3d3c42838cb5c4fbaedbe0ef554b3198c723b",
+        "78982169b35aeca660bb30d36d0cdea16ce9055cb4e9db378cf8e7209b96e5b7",
+        "93e91f6d66eaf85d61386ea9de64483fa77db8dd8c7d083bee5a6f20661ce1a4",
+        "a9e23e499914ffac9cc982503100b6f8dbbf9709708d0163a2967c8a303f09bc",
+        "e76073d3fc27423c3633316d70bfddf4473020351701a73b1082c59d18304574"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-notes.js",
+      "newSha256": "3e5b993a84751db65307b57946f0a38f758f2fc1728de374b9b3c112fe2a0665",
+      "allowedOldSha256": [
+        "3e5b993a84751db65307b57946f0a38f758f2fc1728de374b9b3c112fe2a0665",
+        "916f4395b33324b70d11307352f7341d8f72cf6d2273b8581fb2050d3c4e962c"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-pdf.js",
+      "newSha256": "ea1480651be1e771457e1bc86f4418b798ac22f775c83ead99d850c347bc47d6",
+      "allowedOldSha256": [
+        "ea1480651be1e771457e1bc86f4418b798ac22f775c83ead99d850c347bc47d6"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-shell.js",
+      "newSha256": "3829229029514ec917504cccfa5d9b6b311633bef199dfbca54bfde6f2188f9c",
+      "allowedOldSha256": [
+        "1f84a6208fd7079b57c0ce54268e124e2fa40b336db897508c0edd76f2b6711d",
+        "3829229029514ec917504cccfa5d9b6b311633bef199dfbca54bfde6f2188f9c",
+        "939ab0cf33637b352093e454ae80e7ea9c5cfc137d575ce5bdc77ab03d1e7871"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living.css",
+      "newSha256": "4ba0a85a2842bb21604d14384e50baa40fbad37e700034914471edccc09c43e5",
+      "allowedOldSha256": [
+        "4ba0a85a2842bb21604d14384e50baa40fbad37e700034914471edccc09c43e5"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/planner.js",
+      "newSha256": "7787ff245913330b6b7b5042a135331d05172b30cb4f87900f951e8fe6e1ef3c",
+      "allowedOldSha256": [
+        "7787ff245913330b6b7b5042a135331d05172b30cb4f87900f951e8fe6e1ef3c"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-art.js",
+      "newSha256": "aabb7329ab06d31d5e23a547e9de7de01146c2bb112cb5008a997c3e29ef7cdf",
+      "allowedOldSha256": [
+        "aabb7329ab06d31d5e23a547e9de7de01146c2bb112cb5008a997c3e29ef7cdf"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-audio.js",
+      "newSha256": "0d52ab9af872a0a9cae414ab59d0469a01d4ee7d529df2180211462d9d387382",
+      "allowedOldSha256": [
+        "0d52ab9af872a0a9cae414ab59d0469a01d4ee7d529df2180211462d9d387382"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-garden.js",
+      "newSha256": "d2660f4118a1f2bd4b25727b9858e90ebb54c43d26b9c6d40b51dda3c9bd32b1",
+      "allowedOldSha256": [
+        "1d46627c62ae5704192347309afa0150796aec071354a5097fedd47abfac580d",
+        "5d71d31bc0f97df519e87863faf35515130526c00beaea2bb440259c962d7985",
+        "d2660f4118a1f2bd4b25727b9858e90ebb54c43d26b9c6d40b51dda3c9bd32b1"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-model.js",
+      "newSha256": "b9d3b529db292d2698fc42d182469a40f38a2b563232069e72bf6101565de749",
+      "allowedOldSha256": [
+        "b9d3b529db292d2698fc42d182469a40f38a2b563232069e72bf6101565de749"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-notes.js",
+      "newSha256": "403e3c7d4ec4b0b3a87f8408003f2922a85d1d0150370c8d0525ef22c2d12d2f",
+      "allowedOldSha256": [
+        "403e3c7d4ec4b0b3a87f8408003f2922a85d1d0150370c8d0525ef22c2d12d2f"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-shell.js",
+      "newSha256": "802d83577b594b760a9caef330120171bf0471dfbeea326d514716740c20fa63",
+      "allowedOldSha256": [
+        "c47d0f9b6e8a9fc20d393fed6a531f32e2027affa5843a485ca22d278bb26e11"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish.css",
+      "newSha256": "dd64fe7514ed683856b8849ba9529b73712ad3f059975afb52992e2f846402f2",
+      "allowedOldSha256": [
+        "dd64fe7514ed683856b8849ba9529b73712ad3f059975afb52992e2f846402f2"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura-art.js",
+      "newSha256": "0085a08c5916e347565cd8a3cd6e1aaeed1c6a7436ec9142d28e27378b652619",
+      "allowedOldSha256": [
+        "0085a08c5916e347565cd8a3cd6e1aaeed1c6a7436ec9142d28e27378b652619"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura-collection.js",
+      "newSha256": "ade61fcab7ed3cf0ea2710cfbcf5ac8aaac9cf79dbe40744806b4f324d06bf4c",
+      "allowedOldSha256": [
+        "ade61fcab7ed3cf0ea2710cfbcf5ac8aaac9cf79dbe40744806b4f324d06bf4c"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura-garden.js",
+      "newSha256": "ab695fb8eacd4e1772dde17c8bb5cc4370a82e76310dba11e70b639d1ae92a28",
+      "allowedOldSha256": [
+        "ab695fb8eacd4e1772dde17c8bb5cc4370a82e76310dba11e70b639d1ae92a28"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura.css",
+      "newSha256": "2181cecf373af167c7a6f9d24b0ee6670f476ca69f1592d7ef1794b096afb950",
+      "allowedOldSha256": [
+        "2181cecf373af167c7a6f9d24b0ee6670f476ca69f1592d7ef1794b096afb950"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/scenes.js",
+      "newSha256": "31c830b6f10996e036c86dd1683473a7580289db6563fe2aa2ad71b916096174",
+      "allowedOldSha256": [
+        "31c830b6f10996e036c86dd1683473a7580289db6563fe2aa2ad71b916096174"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/screens.js",
+      "newSha256": "be76db2a42823c2467c30c8d5acb17a9fe1de7074579baa56bdaa5a273c7fd5b",
+      "allowedOldSha256": [
+        "be76db2a42823c2467c30c8d5acb17a9fe1de7074579baa56bdaa5a273c7fd5b"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sprites.js",
+      "newSha256": "8f59a108e09bb6e4e776cf2b9b90bcef1aff55f3ba78d3354bf4768908b20ca3",
+      "allowedOldSha256": [
+        "8f59a108e09bb6e4e776cf2b9b90bcef1aff55f3ba78d3354bf4768908b20ca3"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/stable-focus.js",
+      "newSha256": "328dd25301aeae46f4343a61e203716ab4c7c550ca3c5f8b8d0f61e9636c0c3f",
+      "allowedOldSha256": [
+        "328dd25301aeae46f4343a61e203716ab4c7c550ca3c5f8b8d0f61e9636c0c3f"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/stable-garden.js",
+      "newSha256": "7c30ed293a53b92e347eb5013447465c5a3b8a9c179d7712ddbfa8e10af4c322",
+      "allowedOldSha256": [
+        "8d464d789dd4235a204c77b3f53725a4d41969df8920f19ab1ce6831ce19f934",
+        "efb809a21efcd4d0ffa7775a7799f267668bcbc6badda2a33c97bb278ae01ece"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/stable-shell.js",
+      "newSha256": "72b2082316234d2b2508fce78b781a15843228cd466bc25dc35212bbbe334c40",
+      "allowedOldSha256": [
+        "72b2082316234d2b2508fce78b781a15843228cd466bc25dc35212bbbe334c40"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/stable.css",
+      "newSha256": "37e19d12b559412bc81ecbd76b8440941498c1e31af8103219fba97c0946782f",
+      "allowedOldSha256": [
+        "37e19d12b559412bc81ecbd76b8440941498c1e31af8103219fba97c0946782f"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/style-v04.css",
+      "newSha256": "95946f0245e13e04d1c253b4088cc5fcb56c3266e73d5af3816f1b9382b659d3",
+      "allowedOldSha256": [
+        "95946f0245e13e04d1c253b4088cc5fcb56c3266e73d5af3816f1b9382b659d3"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/style.css",
+      "newSha256": "6f737f50cb9d1211f0a3e068320c2ee0071815df2e9b5f9df2c6250a8a044d91",
+      "allowedOldSha256": [
+        "6f737f50cb9d1211f0a3e068320c2ee0071815df2e9b5f9df2c6250a8a044d91"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/test-coins.js",
+      "newSha256": "a4ff2ab617b7d0f159fa5bf9b4bc88b90409f0375f5c2ba2bb81975e635ff930",
+      "allowedOldSha256": [
+        "09cf158f61a6453aa6160c9bc61980187ea6b68642efcce9588dfe7bb4de86bb",
+        "a4ff2ab617b7d0f159fa5bf9b4bc88b90409f0375f5c2ba2bb81975e635ff930"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": true
+    },
+    {
+      "path": "tools/ui/weekly.js",
+      "newSha256": "f7af29794039d93e2bb97c486d030744a8bd910a0e73ce554fc84a30bddfd183",
+      "allowedOldSha256": [
+        "f7af29794039d93e2bb97c486d030744a8bd910a0e73ce554fc84a30bddfd183"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/world-ui.js",
+      "newSha256": "890aa777a369d117bbd7731c8de9d3dc043a3851c552f3d1341a185e9d61ff1a",
+      "allowedOldSha256": [
+        "822d258556ff87fcac4b36d4e0174fd9634ada8d8001d52f277e360e16b3b191",
+        "890aa777a369d117bbd7731c8de9d3dc043a3851c552f3d1341a185e9d61ff1a"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/world.js",
+      "newSha256": "1065794b6285e99c5f677c2116276ba4f32edae88d0ffed9065b46a9b0bdedef",
+      "allowedOldSha256": [
+        "73a82727894116d34b269fb848a90cc29d4941bb203a3af05ec1464893bc92b7",
+        "7efc73c496de5ea8f32ad96f5fbd1b090e42b9dc861b21f52596bfc332c9aa6f"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/verify.cjs",
+      "newSha256": "faa795274e5923fd446e75f8f5a568e12faf66e547e6b732e44e16759b6b06bc",
+      "allowedOldSha256": [
+        "11824a0d171cf89bcdf3a3d325038eaf686d6df69e4855c03ad90a43f1223130",
+        "4a28ad6bab9d17d29aa1ee47c4af8edf61d1c5aa0e11ab6a2c6c72e571f88524",
+        "4e5b12ba570c63e1e8661434d312700b07df7561aafe9e2eb16d74b51e0b69e0",
+        "aff8692058db327f456d9124b7177466e729e91d5256cef6f96090efcb227151",
+        "db13dcaedb052b5ead520264f9e5de3b475ca2d44471ee6c0ec39cf301ffa3cb"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/haven-model.js",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "437c32504f7eca62356149668a2817f2493812766dfadc8b6f4e6463934a8f55"
+    },
+    {
+      "path": "tools/ui/haven-art.js",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "8034822500d639c02928ce143c204896241e77e6aedbeea39a071c532b43e581"
+    },
+    {
+      "path": "tools/ui/haven-garden.js",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "e2773e9c69f9682df107419efe13a0912fd283afd4b0e5db712b82c7598c2ab4"
+    },
+    {
+      "path": "tools/ui/haven-shell.js",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "64c9e5825b55b9295a341e5061a9c94ba292d77ea46ba3e177aaf4a0bf1e480a"
+    },
+    {
+      "path": "tools/ui/haven-audio.js",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "154b79aa141a324b0572ade689b7226f80f7a77ce9a13470a8249ddeeb46245b"
+    },
+    {
+      "path": "tools/ui/haven.css",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "64b3cb3155178cc6bac9708e86a3491891fc1f4c9d8385e0897fe9df09402694"
+    },
+    {
+      "path": "tools/generate-haven-art.py",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "ed53bf06a1503f2450e3592ade4cb749b4b9c45fbd47cd47dac5e701d3960957"
+    },
+    {
+      "path": "tools/generate-piano-057.py",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "04107a28924743533091cf06c94a096826c3dfc60f695449b607ed003fde60db"
+    },
+    {
+      "path": "licenses/Home-Greenhouse-057.md",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "445b583c5187ebe12f292f7ebc3c6e8df1301f6579b35a1a99bfa53196612087"
+    },
+    {
+      "path": "assets/atelier/pianoMoon-score057.json",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "65f2919476710cdefe1a7d2bb2353bed5962748e13c47a7db060c7736118215a"
+    },
+    {
+      "path": "assets/atelier/pianoDawn-score057.json",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "bf68fabf90c5528593781d0695c00a9b35a81eed9673ccb9a3bb2c54cba252f7"
+    },
+    {
+      "path": "assets/atelier/pianoSakura-score057.json",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "newSha256": "9aa5b2e817a22b3b56f0c3a38abcaab06d05236a4d5f8c95db1a7842002c1b47"
+    }
+  ]
+}

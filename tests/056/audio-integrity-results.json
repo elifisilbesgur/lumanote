@@ -1,0 +1,117 @@
+[
+  {
+    "name": "ocean hash",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "ocean stereo MP3 44.1k",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "ocean duration",
+    "passed": true,
+    "detail": 126.040816
+  },
+  {
+    "name": "ocean finite unclipped non-silent samples",
+    "passed": true,
+    "detail": {
+      "peak": 0.762434,
+      "rms": 0.094441
+    }
+  },
+  {
+    "name": "fire hash",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "fire stereo MP3 44.1k",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "fire duration",
+    "passed": true,
+    "detail": 126.040816
+  },
+  {
+    "name": "fire finite unclipped non-silent samples",
+    "passed": true,
+    "detail": {
+      "peak": 0.771754,
+      "rms": 0.065095
+    }
+  },
+  {
+    "name": "pianoMoon hash",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pianoMoon stereo MP3 44.1k",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pianoMoon duration",
+    "passed": true,
+    "detail": 102.347755
+  },
+  {
+    "name": "pianoMoon finite unclipped non-silent samples",
+    "passed": true,
+    "detail": {
+      "peak": 0.533123,
+      "rms": 0.101829
+    }
+  },
+  {
+    "name": "pianoDawn hash",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pianoDawn stereo MP3 44.1k",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pianoDawn duration",
+    "passed": true,
+    "detail": 83.043265
+  },
+  {
+    "name": "pianoDawn finite unclipped non-silent samples",
+    "passed": true,
+    "detail": {
+      "peak": 0.524302,
+      "rms": 0.101827
+    }
+  },
+  {
+    "name": "pianoSakura hash",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pianoSakura stereo MP3 44.1k",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "pianoSakura duration",
+    "passed": true,
+    "detail": 93.048163
+  },
+  {
+    "name": "pianoSakura finite unclipped non-silent samples",
+    "passed": true,
+    "detail": {
+      "peak": 0.480854,
+      "rms": 0.101827
+    }
+  }
+]

@@ -1,0 +1,15 @@
+LumaNote 0.5.7 — Evim ve Kış Bahçem
+
+Tam Expo kaynak projesidir. Mevcut uygulama için README_TR.md içindeki yerinde
+güncelleme komutunu kullan; eski klasörü silme ve klasörleri elle birleştirme.
+Önceki güncelleme ZIP'lerini sırayla uygulamak gerekmez.
+Kod yedeği otomatik oluşturulur; bu, telefondaki kişisel verilerin yedeği değildir.
+Test jetonu anahtarı, kurulu paketler, kilit dosyası ve Expo kimliği korunur.
+
+Bahçedeki Sera/Kulübe veya yeni Sera/Evim düğmeleri ile içeri gir.
+Odalar: salon, mutfak, banyo, dinlenme odası, yatak odası; ayrıca kış bahçesi.
+Mağazada Yılbaşı, Cadılar Bayramı ve Sera & Odalar kategorilerini görebilirsin.
+Üç yeni piyano dosyası pakettedir; ücretli kayıt gerektirmez.
+Sesler özgün sentez besteleridir, gerçek akustik piyano performansı değildir.
+Örnek ekranlardaki mobilyalar ve bakiye başlangıç verisi olarak verilmez.
+Fiziksel iPhone/Expo Go testi burada yapılmadı; ayrıntılar docs/TEST_RAPORU_057.md.

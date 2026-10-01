@@ -1,0 +1,29 @@
+/* Fixed portrait garden and thumb-sized controls. */
+.garden-page .garden-stage{height:auto;aspect-ratio:3/4;width:100%;border-radius:23px;touch-action:pan-y}
+.garden-page .living-canvas{touch-action:pan-y}
+.garden-full .garden-stage{aspect-ratio:auto}
+.garden-full .living-canvas{touch-action:none}
+.garden-heading053{margin-bottom:18px!important}.garden-heading053 h1{font-size:36px!important}.garden-heading053 .eyebrow{font-size:9px;letter-spacing:1.8px}
+.garden-tools{gap:5px;top:10px;right:10px}.garden-tools .icon-btn{height:39px;width:39px;min-width:39px;border-radius:50%;backdrop-filter:none;background:#152326de}
+.garden-edit-chip{top:58px;left:auto;right:12px;pointer-events:none;font-size:10px}
+.selection053{border:1px solid var(--line);background:var(--surface);padding:10px;border-radius:16px;font-size:11px;display:flex;flex-direction:column;align-items:center;gap:7px}
+.selection053 .nudge-bar{display:flex;gap:7px;flex-wrap:wrap;justify-content:center}.selection053 .nudge-bar button{width:40px;height:40px;min-height:40px;font-size:21px;border-radius:12px;background:var(--surface2)}.selection053 button:disabled{opacity:.3}
+.garden-full #garden-selection{z-index:5;left:50%;width:min(330px,93vw);transform:translateX(-50%);padding:0;bottom:calc(90px + var(--safe-bottom))}
+.garden-dock{padding:7px 0}.garden-dock>button{font-size:11px;min-height:52px;padding:8px 4px}.garden-quiet-stats{margin-bottom:12px}
+.nursery053 .section-top{margin-top:17px;margin-bottom:13px}.nursery053 .growing-plots{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+.nursery053 .growing-plot{min-width:0;overflow:hidden;padding:16px 7px 13px}.nursery053 .pot-stage{height:92px;position:relative}.nursery053 strong{font-size:12px}.nursery053 small{font-size:10px}
+.watering-can053{position:absolute;right:0;top:4px;color:#a5d6e2;opacity:0;transform:rotate(-23deg);pointer-events:none}.water-drops053{position:absolute;left:48%;top:20px;width:38px;height:64px;pointer-events:none;opacity:0}.water-drops053 i{position:absolute;width:3px;height:7px;background:#b5e7ff;left:calc(var(--i,0)*8px);border-radius:0 0 2px 2px}.water-drops053 i:nth-child(2){--i:1;animation-delay:.12s!important}.water-drops053 i:nth-child(3){--i:2;animation-delay:.27s!important}.water-drops053 i:nth-child(4){--i:3;animation-delay:.4s!important}
+.watering053 .watering-can053{animation:water-can053 2.8s ease-in-out both}.watering053 .water-drops053{animation:water-can053 2.8s both}.watering053 .water-drops053 i{animation:water-drop053 .6s linear 4}.watering053 .pixel-pot{animation:wet-pot053 3s ease-out}.watering053 .pot-stage>svg{animation:grow-sway053 1s ease-in-out 2}
+@keyframes water-can053{0%,100%{opacity:0}15%,80%{opacity:1}}@keyframes water-drop053{from{transform:translate(3px,0);opacity:1}to{transform:translate(-9px,45px);opacity:0}}@keyframes wet-pot053{20%,60%{filter:brightness(.75)}100%{filter:none}}@keyframes grow-sway053{50%{transform:rotate(-3deg)}}
+.focus-companion053{display:flex;align-items:center;justify-content:center;gap:9px;color:#e9e3f1;font-size:12px;margin-top:12px}.focus-companion053>svg{width:34px;height:34px;flex:0 0 34px}
+.no-motion .watering053 *{animation:none!important}.no-motion .watering053 .watering-can053{opacity:1}
+/* Sheet drag hit area is full-width; the visual handle is not the hit target. */
+.sheet{padding:0!important;display:flex;flex-direction:column;overflow:hidden!important;max-height:calc(92dvh - var(--safe-top));overscroll-behavior:contain;will-change:transform}
+.sheet-drag-zone053{flex:0 0 29px;min-height:29px;display:flex;align-items:center;justify-content:center;touch-action:none;cursor:grab;user-select:none;-webkit-user-select:none}
+.sheet-drag-zone053:after{content:"";height:4px;width:38px;border-radius:4px;background:var(--muted);opacity:.55}
+.sheet-head{margin:0!important;padding:0 20px 12px!important;flex:0 0 auto;touch-action:none;user-select:none;-webkit-user-select:none}
+.sheet-body053{overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;min-height:0;padding:0 20px calc(24px + var(--safe-bottom));touch-action:pan-y}
+.sheet.is-dragging053{animation:none!important;transition:none!important}.modal-backdrop{overscroll-behavior:contain;touch-action:pan-y}
+.sheet-head .icon-btn{touch-action:manipulation}.sheet[data-kind="ink"] .sheet-body053,.sheet[data-kind="pdf"] .sheet-body053{overscroll-behavior:none}
+body.sheet-open053 #screen{pointer-events:none}body.sheet-open053 #navigation{pointer-events:none}
+.focus-busy053{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(110px + var(--safe-bottom));z-index:112;background:var(--surface);border:1px solid var(--line);padding:9px 16px;border-radius:22px;font-size:12px}

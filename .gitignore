@@ -1,0 +1,67 @@
+# Dependencies and generated local installation state
+node_modules/
+.expo/
+.luma/
+.cache/
+coverage/
+dist/
+web-build/
+*.tsbuildinfo
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+.npmrc
+*.pem
+*.key
+*.p12
+*.p8
+*.pfx
+*.jks
+*.keystore
+*.mobileprovision
+id_rsa
+id_ed25519
+credentials.json
+service-account*.json
+
+# Personal exports, snapshots and compressed backup archives
+backups/
+LumaNote_Yedekleri/
+LumaNote-yedek-*.json
+LumaNote-yedek-*.luma
+before-import-*.json
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Temporary files and local logs
+.DS_Store
+.AppleDouble/
+__MACOSX/
+*.tmp
+*.swp
+*.swo
+*.log
+# Historical test logs are intentional source evidence, not phone/user logs.
+!tests/**/*.log
+__pycache__/
+*.pyc
+assets/recordings/*.tmp
+
+# Locally generated native build output and signing state
+ios/Pods/
+ios/build/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.ipa
+*.aab
+*.apk
+
+# Keep package-lock.json when a valid local install creates it.
+# Keep ONIZLEME.html and nocturne/UI_HTML.ts: generated but used by this source snapshot.

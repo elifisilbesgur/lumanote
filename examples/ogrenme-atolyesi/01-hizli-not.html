@@ -1,0 +1,37 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>1. Küçük not listesi · Öğrenme ortamı</title><style>*{box-sizing:border-box}body{margin:0;background:#101a1b;color:#f4eef7;font:17px/1.6 system-ui,sans-serif}main{max-width:800px;margin:auto;padding:36px 24px}h1{font-size:32px;line-height:1.2}p{color:#c5ceca}.tag{font-size:12px;letter-spacing:.12em;color:#c3aadf;text-transform:uppercase}input,button{font:inherit;border-radius:12px;padding:12px;border:1px solid #596465}input{color:inherit;background:#203032;max-width:100%}button{background:#c4afd9;color:#20172b;cursor:pointer;min-height:44px}button:disabled{opacity:.45;cursor:default}.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}section{padding:24px;background:#1b292a;border-radius:18px;margin:22px 0}li{margin:14px 0;display:flex;gap:14px;align-items:center;overflow-wrap:anywhere}label{cursor:pointer}#notice{min-height:2em;color:#ddd4a2}a{color:#d9c2f0}code{font-size:.9em}canvas{display:block;background:#7b9b7b;width:100%;border-radius:12px;touch-action:none}small{color:#b7c3be}#clock{font-size:72px;letter-spacing:.04em;font-variant-numeric:tabular-nums}</style></head><body><main><div class="tag">LumaNote · Bağımsız öğrenme ortamı</div><h1>1. Küçük not listesi</h1><p>Not ekle, seç ve seçilileri kaldır. Yalnızca bu örneğin tarayıcı kaydını kullanır.</p><form id="form" class="row"><label for="title">Başlık</label><input id="title" maxlength="120" required autocomplete="off"><button>Ekle</button></form><section><div class="row"><button id="all" type="button">Tümünü seç</button><button id="remove" type="button">Seçilileri sil</button></div><ul id="list"></ul></section><p id="notice" role="status" aria-live="polite"></p><p><small>Gerçek LumaNote verisine, jetonuna veya dosyalarına erişmez. Örnek kodu kaynak görünümünden inceleyebilirsin.</small></p></main><script>"use strict";
+const KEY = 'lumanote-learning-notes-v1';
+const input = document.querySelector('#title');
+const notice = document.querySelector('#notice');
+let notes = []; const selected = new Set();
+try {
+  const saved = JSON.parse(localStorage.getItem(KEY) || '[]');
+  if (!Array.isArray(saved)) throw new Error('Beklenmeyen kayıt');
+  notes = saved.filter(n => n && typeof n.id === 'string' && typeof n.title === 'string');
+} catch (e) { notice.textContent = 'Bu ortamda eski kayıt okunamadı; örnek bellekte başlayacak.'; }
+function save() {
+  try { localStorage.setItem(KEY, JSON.stringify(notes)); notice.textContent = 'Örnek tarayıcı kaydı saklandı.'; }
+  catch (e) { notice.textContent = 'Tarayıcı kaydı kapalı; yalnızca bu açık sayfada çalışılıyor.'; }
+}
+function render() {
+  const list = document.querySelector('#list'); list.replaceChildren();
+  for (const note of notes) {
+    const li = document.createElement('li'), label = document.createElement('label');
+    const check = document.createElement('input'); check.type = 'checkbox';
+    check.checked = selected.has(note.id);
+    check.addEventListener('change', () => { if (check.checked) selected.add(note.id); else selected.delete(note.id); render(); });
+    // textContent kullanımı not içeriğini HTML olarak çalıştırmaz.
+    label.append(check, document.createTextNode(' ' + note.title)); li.append(label); list.append(li);
+  }
+  document.querySelector('#remove').disabled = selected.size === 0;
+}
+document.querySelector('#form').addEventListener('submit', e => {
+  e.preventDefault(); const title = input.value.trim();
+  if (!title) { notice.textContent = 'Boş başlık eklenmedi.'; return; }
+  const id = globalThis.crypto?.randomUUID?.() || 'n-' + Date.now() + '-' + Math.random();
+  notes.push({id, title}); input.value = ''; save(); render(); input.focus();
+});
+document.querySelector('#all').onclick = () => { for (const n of notes) selected.add(n.id); render(); };
+document.querySelector('#remove').onclick = () => {
+  notes = notes.filter(n => !selected.has(n.id)); selected.clear(); save(); render();
+};
+render();</script></body></html>

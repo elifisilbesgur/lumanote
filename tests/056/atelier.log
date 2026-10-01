@@ -1,0 +1,66 @@
+PASS Version marker 056 
+PASS 12 additive Anatolia entries, no starter gifts 
+PASS Every 056 item has a distinct drawing 
+PASS Visible Japanese catalogue shortcut 
+PASS Japanese shortcut opens all 30 real models 
+PASS Anatolia tab shows all 12 
+PASS Insufficient funds guarded 
+PASS Price debits exactly once 
+PASS Repeat purchase no debit 
+PASS Tea can be placed inside 
+PASS Same ownership can move back outside 
+PASS New model purchase rollback 
+PASS No +/- buttons in garden toolbar 
+PASS Memory section after nursery 
+PASS Legacy memory name and kind survive 
+PASS Legacy memory enters standard edit selection 
+PASS Memory right arrow changes actual saved position 
+PASS Memory position remains after normalized reload 
+PASS Hiding memory preserves metadata and removes scene hit 
+PASS Hidden memory can be restored 
+PASS No fake work for free new memorial 
+PASS New flower saved with no coin charge 
+PASS Memory objects have canvas hit tests 
+PASS Single finger/mouse pan works when zoomed 
+PASS Camera cannot expose outside bottom right 
+PASS Camera cannot expose outside top left 
+PASS Camera cannot expose outside top right 
+PASS Camera cannot expose outside bottom left 
+PASS Fit mode does not drift 
+PASS Actual Chromium multi-touch zooms 2.36
+PASS Pinch releases transient gesture state 
+PASS Sheet touch-down dismissal retained 
+PASS Theme renderer opal056 {'ctor': 'Lava', 'gl': False, 'err': None}
+PASS Theme renderer emerald056 {'ctor': 'Lava', 'gl': False, 'err': None}
+PASS Theme renderer amber056 {'ctor': 'Lava', 'gl': False, 'err': None}
+PASS Theme renderer cosmos056 {'ctor': 'Lava', 'gl': False, 'err': None}
+PASS Theme renderer nocturne {'ctor': 'Lava', 'gl': False, 'err': None}
+PASS Garden background still selected 
+PASS Theme renderer opal056 {'ctor': 'Lava', 'gl': False, 'err': None}
+PASS Reduced-motion lava stops its frame loop 
+PASS All 4 piano choices visible 
+PASS Ocean and fire are not gated as missing recordings 
+PASS Generated audio provenance shown honestly 
+PASS Select piano keeps a single piano track volume 
+PASS Switch piano zeros previous channel 
+PASS Browser decodes packaged ocean {'key': 'ocean', 'd': 126, 'ch': 2}
+PASS Browser decodes packaged fire {'key': 'fire', 'd': 126, 'ch': 2}
+PASS Browser decodes packaged pianoMoon {'key': 'pianoMoon', 'd': 102.31034013605442, 'ch': 2}
+PASS Browser decodes packaged pianoDawn {'key': 'pianoDawn', 'd': 83, 'ch': 2}
+PASS Browser decodes packaged pianoSakura {'key': 'pianoSakura', 'd': 93, 'ch': 2}
+PASS Concurrent audio calls share one decoded node 
+PASS Audio stop releases active buffers 
+PASS Garden bounds 320x700 
+PASS Catalogue wraps within viewport 320 
+PASS Garden bounds 375x812 
+PASS Catalogue wraps within viewport 375 
+PASS Garden bounds 390x844 
+PASS Catalogue wraps within viewport 390 
+PASS Garden bounds 430x932 
+PASS Catalogue wraps within viewport 430 
+PASS Garden bounds 844x390 
+PASS Catalogue wraps within viewport 844 
+PASS No unhandled browser exceptions 
+PASS Test purchase spends only test coins 
+PASS 056 reload does not grant another 100m 
+RESULT 65 / 65

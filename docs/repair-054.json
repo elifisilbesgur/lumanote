@@ -1,0 +1,133 @@
+{
+  "version": "0.5.4",
+  "build": "LUMA-0.5.4-SEASONS-NOTES",
+  "base": "0.5.3",
+  "files": [
+    {
+      "path": "App.tsx",
+      "oldSha256": "28d590f8474e2c68e81409d4336291ff3956949443ae2adbc1fb8452bef4877e",
+      "newSha256": "49a67fc036401a0c36e29280de5f0cba7293430136d15c4f9a8f8c5c721f5142"
+    },
+    {
+      "path": "BASLAT.command",
+      "oldSha256": "b365ae51db60076eaa3bad81eedcd1b7d1e28539d5cb14a3300a0316a43c008e",
+      "newSha256": "a3d82fd49f5e8728e0bf9cac2f51b1ef3f4662127fab22332192dadf83196a52",
+      "knownInstalledSha256": [
+        "45f0466a49ee5e587c4ed406b22fde179a98394b4573da39ab784de53d198a67"
+      ]
+    },
+    {
+      "path": "SESLERI_INDIR.command",
+      "oldSha256": "4bb98b8a65c71ea5a79d196a83caf2a651aec8d0d4577e65db40c226c90a3f5f",
+      "newSha256": "ff6ece9fda7941dfa136e14252186fd6cbc46b25fd3958900e0b816fb03f75e2"
+    },
+    {
+      "path": "index.js",
+      "oldSha256": "89a22bcc83b9de2d7e745118636b43791c11b075c611edeabf6a97156df4bd24",
+      "newSha256": "2b0199fd31066ac129fa437bace005ecd6fc766f8c287e0217e2444ec116df03"
+    },
+    {
+      "path": "metro.config.js",
+      "oldSha256": "b5937e05046dc23991bccfcd0017de1b22569868758a04761720b9832b12fe4c",
+      "newSha256": "b5937e05046dc23991bccfcd0017de1b22569868758a04761720b9832b12fe4c"
+    },
+    {
+      "path": "nocturne/AudioEngine.tsx",
+      "oldSha256": "e59425cc402ffefbe58131ae86a9ad609bb23ddb386fb0678887de65c5bdd71c",
+      "newSha256": "60261b2388f12263cf53ec7026431f49c75617078a00064c50548a5939368b2f"
+    },
+    {
+      "path": "nocturne/NobleCrypto.ts",
+      "oldSha256": "0f705f568eae4702cba0355277e162694f5a6fba40bb06db532b0a6dca20a41a",
+      "newSha256": "0f705f568eae4702cba0355277e162694f5a6fba40bb06db532b0a6dca20a41a"
+    },
+    {
+      "path": "tools/build-ui.cjs",
+      "oldSha256": "451ee32519f56986985e6de78824e19adb3bd66038b91ea713925f2a47631da0",
+      "newSha256": "aac56b0359405dca535b4c21821ecf797168502cf7a9d348b5ae91ce839e3be4"
+    },
+    {
+      "path": "tools/download-recordings.cjs",
+      "oldSha256": "23fb29e0a46ff3299d4347c2d8fb36dfdcb260b0a77f0394d37001c21593dfc0",
+      "newSha256": "6200a11901d49564ed169df075551b176102e80ceb2ff0841d84b48702e217e1"
+    },
+    {
+      "path": "tools/setup.cjs",
+      "oldSha256": "dd46c9cef6b2f4e9e0fae19834375a339bc93b02f1b663f8c448612ce67f8f2a",
+      "newSha256": "6cc64363ea2bbb6423ccf4519c8136b0c3e458c0e9bb119257556a9dada88d13",
+      "knownInstalledSha256": [
+        "edcc99a13c6788a1d11fbe7fcb4bbac85d6dba745bbd9799538b4ee8d7a01d15"
+      ]
+    },
+    {
+      "path": "tools/ui/core.js",
+      "oldSha256": "8c1e3bb6c31197c6dcdde6b8e685cf4105abb83d29bfca405be08442e20e83a3",
+      "newSha256": "d7db4e220a5f87c87a2cf41c1804e483ae0523f2e26e0f017ede9e25b9effec2"
+    },
+    {
+      "path": "tools/ui/living-audio.js",
+      "oldSha256": "328b6bc2f7cf2fdbe5815f237edcc7a7539818774c21fb284fe4c05b736dc6e2",
+      "newSha256": "70f9e9d004eb4107018216870464ae5965604bc8e60bd322ff2e0d052b037036"
+    },
+    {
+      "path": "tools/ui/living-model.js",
+      "oldSha256": "a9e23e499914ffac9cc982503100b6f8dbbf9709708d0163a2967c8a303f09bc",
+      "newSha256": "78982169b35aeca660bb30d36d0cdea16ce9055cb4e9db378cf8e7209b96e5b7"
+    },
+    {
+      "path": "tools/ui/living-notes.js",
+      "oldSha256": "916f4395b33324b70d11307352f7341d8f72cf6d2273b8581fb2050d3c4e962c",
+      "newSha256": "3e5b993a84751db65307b57946f0a38f758f2fc1728de374b9b3c112fe2a0665"
+    },
+    {
+      "path": "tools/ui/polish-art.js",
+      "oldSha256": null,
+      "newSha256": "aabb7329ab06d31d5e23a547e9de7de01146c2bb112cb5008a997c3e29ef7cdf"
+    },
+    {
+      "path": "tools/ui/polish-audio.js",
+      "oldSha256": null,
+      "newSha256": "0d52ab9af872a0a9cae414ab59d0469a01d4ee7d529df2180211462d9d387382"
+    },
+    {
+      "path": "tools/ui/polish-garden.js",
+      "oldSha256": null,
+      "newSha256": "5d71d31bc0f97df519e87863faf35515130526c00beaea2bb440259c962d7985"
+    },
+    {
+      "path": "tools/ui/polish-model.js",
+      "oldSha256": null,
+      "newSha256": "b9d3b529db292d2698fc42d182469a40f38a2b563232069e72bf6101565de749"
+    },
+    {
+      "path": "tools/ui/polish-notes.js",
+      "oldSha256": null,
+      "newSha256": "403e3c7d4ec4b0b3a87f8408003f2922a85d1d0150370c8d0525ef22c2d12d2f"
+    },
+    {
+      "path": "tools/ui/polish-shell.js",
+      "oldSha256": null,
+      "newSha256": "c47d0f9b6e8a9fc20d393fed6a531f32e2027affa5843a485ca22d278bb26e11"
+    },
+    {
+      "path": "tools/ui/polish.css",
+      "oldSha256": null,
+      "newSha256": "dd64fe7514ed683856b8849ba9529b73712ad3f059975afb52992e2f846402f2"
+    },
+    {
+      "path": "tools/ui/world-ui.js",
+      "oldSha256": "822d258556ff87fcac4b36d4e0174fd9634ada8d8001d52f277e360e16b3b191",
+      "newSha256": "890aa777a369d117bbd7731c8de9d3dc043a3851c552f3d1341a185e9d61ff1a"
+    },
+    {
+      "path": "tools/ui/world.js",
+      "oldSha256": "73a82727894116d34b269fb848a90cc29d4941bb203a3af05ec1464893bc92b7",
+      "newSha256": "7efc73c496de5ea8f32ad96f5fbd1b090e42b9dc861b21f52596bfc332c9aa6f"
+    },
+    {
+      "path": "tools/verify.cjs",
+      "oldSha256": "4a28ad6bab9d17d29aa1ee47c4af8edf61d1c5aa0e11ab6a2c6c72e571f88524",
+      "newSha256": "11824a0d171cf89bcdf3a3d325038eaf686d6df69e4855c03ad90a43f1223130"
+    }
+  ]
+}

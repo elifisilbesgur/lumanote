@@ -1,0 +1,99 @@
+[
+  {
+    "check": "Özgün 0.5.7 kaynakları korunuyor",
+    "passed": true,
+    "detail": {
+      "changed": [],
+      "missing": [],
+      "compared_files": 280
+    }
+  },
+  {
+    "check": "Paket ve uygulama sürümü",
+    "passed": true,
+    "detail": "0.5.7"
+  },
+  {
+    "check": "Node tabanlı özgün doğrulayıcı",
+    "passed": true,
+    "detail": "DOĞRULANDI: LUMA-0.5.7-HOME-GREENHOUSE · 62 kaynak kontrolü\nindex.js → App.tsx → nocturne/UI_HTML.ts. Gerçek cihaz testi ayrı yapılır.\n"
+  },
+  {
+    "check": "Arayüz yeniden üretimi tutarlı",
+    "passed": true,
+    "detail": {
+      "changed": [],
+      "build_output": "Arayüz hazır: LUMA-0.5.7-HOME-GREENHOUSE · 19334 KB\nPDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.\n",
+      "note": "PDF dependencies absent, as in original source snapshot; installation not performed."
+    }
+  },
+  {
+    "check": "Yaygın gizli anahtar biçimlerinin sınırlı taraması",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "check": "Bağımlılık önbelleği, özel anahtar ve font dosyası yok",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "check": "Normal Git dosya boyutu sınırı",
+    "passed": true,
+    "detail": {
+      "largest_file": "ONIZLEME.html",
+      "largest_bytes": 19801592
+    }
+  },
+  {
+    "check": "Mac için büyük/küçük harf yol çakışması yok",
+    "passed": true,
+    "detail": 301
+  },
+  {
+    "check": "Test jetonu anahtarı kaynakta kapalı",
+    "passed": true,
+    "detail": "Original source state retained; no balance restored."
+  },
+  {
+    "check": "PDF ve Word rehberleri değiştirilmeden kopyalandı",
+    "passed": true,
+    "detail": "Both original bytes retained."
+  },
+  {
+    "check": "Yeni README yerel dosya bağlantıları",
+    "passed": true,
+    "detail": []
+  },
+  {
+    "check": "git add kaynak ve belgeleri eksiksiz alıyor",
+    "passed": true,
+    "detail": {
+      "tracked": 301,
+      "excluded": [],
+      "extra": []
+    }
+  },
+  {
+    "check": ".gitignore koruma örnekleri",
+    "passed": true,
+    "detail": [
+      "node_modules/a.js",
+      ".expo/dev/logs/start.log",
+      ".luma/setup.json",
+      ".env",
+      ".env.production",
+      ".npmrc",
+      "secret.key",
+      "backup.zip",
+      "LumaNote-yedek-2026.json",
+      "ios/Pods/a.txt",
+      "android/local.properties"
+    ]
+  },
+  {
+    "check": "Yerel Git commit/push ve hash eşleşmesi",
+    "passed": true,
+    "detail": "Local temporary bare repository only. Not a GitHub account or network upload."
+  }
+]

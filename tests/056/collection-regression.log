@@ -1,0 +1,56 @@
+PASS 055 UI build 
+PASS Fresh wallet unchanged; no test budget or seeded purchases 
+PASS 30 new catalogue entries 
+PASS 24 outdoor and 6 indoor objects 
+PASS Every new model is distinct 
+PASS No blank model or label fallback 
+PASS Positive integer coin prices 
+PASS All prior decorators have models too 
+PASS Sakura store tab opens all 30 cards 
+PASS Sakura tab announces selected state 
+PASS No required mode purchase 
+PASS Filter water 4 entries
+PASS Filter home 6 entries
+PASS Filter lights 8 entries
+PASS Filter garden 12 entries
+PASS Filter all 30 entries
+PASS Detail sheet has model, description and price 
+PASS Insufficient budget does not buy 
+PASS Buy debits once without fake study time 
+PASS Owned item cannot charge twice 
+PASS Place uses existing edit mode and selection 
+PASS Directional arrows still move only selected object 
+PASS Failed purchase rolls back 
+PASS Can own complete collection 
+PASS New ownership survives normalized reload 
+PASS Indoor purchase placed in cabin 
+PASS Outdoor place exits room mode 
+PASS Placing owned objects is free and does not alter seeds 
+PASS Koi touch triggers bounded visual interaction 
+PASS Animated model jpKoiPond 
+PASS Animated model jpFrogPond 
+PASS Animated model jpBambooFountain 
+PASS Animated model jpWindChime 
+PASS Reduced-motion rendering deterministic 
+PASS Normal drag does not pan garden 
+PASS Zoom remains enabled 
+PASS Reset zoom fits garden 
+PASS No page overflow at 320 
+PASS Buy buttons retain touch target 320 
+PASS No page overflow at 375 
+PASS Buy buttons retain touch target 375 
+PASS No page overflow at 390 
+PASS Buy buttons retain touch target 390 
+PASS No page overflow at 430 
+PASS Buy buttons retain touch target 430 
+PASS No page overflow at 768 
+PASS Buy buttons retain touch target 768 
+PASS No unhandled UI errors 
+PASS Explicit development test wallet still grants 100m 
+PASS New shop uses test wallet before real coins 
+PASS Reload does not refill spent test budget 
+PASS Native gate absent defaults OFF even when switch ON 
+PASS Production cleanup removes test-bought new decorations 
+PASS Production cleanup preserves pretest owned objects and real balance 
+PASS Cleanup preserves notes and working time 
+RESULT 55 / 55

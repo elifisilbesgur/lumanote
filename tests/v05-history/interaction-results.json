@@ -1,0 +1,166 @@
+{
+  "environment": "Chromium pointer events; not physical touch hardware",
+  "checks": [
+    {
+      "name": "Animal dragged and coordinates persisted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Drag undo restores previous placement",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Dragging terrain brush paints multiple cells",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Terrain undo removes whole brush gesture",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Cabin opens by tapping actual scene",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Cabin door returns to garden",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Greenhouse opens seed album",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Scene pot opens seed picker",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Growth waiting offscreen has pending animation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening garden plays queued watering once",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Rain and living scene produce different animation frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion freezes scene animation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Own garden can back other app pages",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Selected text accepts color formatting",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Table insertion creates editable cells",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Table row insertion preserves content",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Table column insertion",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Table row removal",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Paper selection does not erase rich text",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Handwriting displays selected photo background",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Photo visibility carried into handwriting page",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Note add reachable at 320x568",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen counter fits at 320x568",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Note add reachable at 375x812",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen counter fits at 375x812",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Note add reachable at 430x932",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen counter fits at 430x932",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Note add reachable at 768x1024",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen counter fits at 768x1024",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Note add reachable at 844x390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fullscreen counter fits at 844x390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No uncaught interaction errors",
+      "pass": true,
+      "detail": "[]"
+    }
+  ],
+  "errors": []
+}

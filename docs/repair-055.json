@@ -1,0 +1,131 @@
+{
+  "build": "LUMA-0.5.5-SAKURA-COLLECTION",
+  "files": [
+    {
+      "path": "App.tsx",
+      "newSha256": "0093018ca449dd9b2b8137028c86e3f37382d8408bc6f4b413a6ec1007b3cd9a",
+      "allowedOldSha256": [
+        "49a67fc036401a0c36e29280de5f0cba7293430136d15c4f9a8f8c5c721f5142",
+        "5f67a6489d04b93adceb4d7c9381d94c608d68903984bdfe0970dba3c594238e"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "index.js",
+      "newSha256": "d50fef284226a0d26d8c4306105cc9d910f0b5d49ebfaf1c806eca714ef42b49",
+      "allowedOldSha256": [
+        "2b0199fd31066ac129fa437bace005ecd6fc766f8c287e0217e2444ec116df03"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/build-ui.cjs",
+      "newSha256": "d678d7987595bef358bd016c46a35f275707a0dfd4583267a0be5bb40cfb61ae",
+      "allowedOldSha256": [
+        "aac56b0359405dca535b4c21821ecf797168502cf7a9d348b5ae91ce839e3be4",
+        "56d0cd1892dfb59a3c19edeb1b931d6fa87552e23339aebcac8657e8b9a97dde"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/setup.cjs",
+      "newSha256": "78286b638daeadd48b763c549f5c112d089f7a0580b9b6a0ee95df06ac4d26e2",
+      "allowedOldSha256": [
+        "6cc64363ea2bbb6423ccf4519c8136b0c3e458c0e9bb119257556a9dada88d13"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/verify.cjs",
+      "newSha256": "4e5b12ba570c63e1e8661434d312700b07df7561aafe9e2eb16d74b51e0b69e0",
+      "allowedOldSha256": [
+        "11824a0d171cf89bcdf3a3d325038eaf686d6df69e4855c03ad90a43f1223130"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/living-model.js",
+      "newSha256": "e76073d3fc27423c3633316d70bfddf4473020351701a73b1082c59d18304574",
+      "allowedOldSha256": [
+        "78982169b35aeca660bb30d36d0cdea16ce9055cb4e9db378cf8e7209b96e5b7"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/polish-garden.js",
+      "newSha256": "1d46627c62ae5704192347309afa0150796aec071354a5097fedd47abfac580d",
+      "allowedOldSha256": [
+        "5d71d31bc0f97df519e87863faf35515130526c00beaea2bb440259c962d7985"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura-collection.js",
+      "newSha256": "ade61fcab7ed3cf0ea2710cfbcf5ac8aaac9cf79dbe40744806b4f324d06bf4c",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura-art.js",
+      "newSha256": "0085a08c5916e347565cd8a3cd6e1aaeed1c6a7436ec9142d28e27378b652619",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura-garden.js",
+      "newSha256": "ab695fb8eacd4e1772dde17c8bb5cc4370a82e76310dba11e70b639d1ae92a28",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/sakura.css",
+      "newSha256": "2181cecf373af167c7a6f9d24b0ee6670f476ca69f1592d7ef1794b096afb950",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/ui/test-coins.js",
+      "newSha256": "a4ff2ab617b7d0f159fa5bf9b4bc88b90409f0375f5c2ba2bb81975e635ff930",
+      "allowedOldSha256": [
+        "09cf158f61a6453aa6160c9bc61980187ea6b68642efcce9588dfe7bb4de86bb",
+        "a4ff2ab617b7d0f159fa5bf9b4bc88b90409f0375f5c2ba2bb81975e635ff930"
+      ],
+      "mayBeMissing": true,
+      "preserveExisting": true
+    },
+    {
+      "path": "BASLAT.command",
+      "newSha256": "ce03da1813926cfaef069f4f96729c692f052f2f6291bc1b77641f9f511d803a",
+      "allowedOldSha256": [
+        "a3d82fd49f5e8728e0bf9cac2f51b1ef3f4662127fab22332192dadf83196a52"
+      ],
+      "mayBeMissing": false,
+      "preserveExisting": false
+    },
+    {
+      "path": "tools/toggle-test-coins.cjs",
+      "newSha256": "2f325adea265b5c67cb6ccbe3860deb7b69b1fdaf849878739d6568fb3e86427",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    },
+    {
+      "path": "TEST_JETONLARI.command",
+      "newSha256": "06444210c6d69879707a779e161c521267cd7deba42244c4e872e61bce74dfe5",
+      "allowedOldSha256": [],
+      "mayBeMissing": true,
+      "preserveExisting": false
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+PASS Fresh record has six room styles, no artificial purchased holiday items 
+PASS All 68 added items have unique original model recipes 
+PASS Garden has fullscreen only; useless reset/fit button removed 
+PASS Use garden as theme removed from garden page 
+PASS Use garden as theme removed from weather sheet 
+PASS No preset layouts offered 
+PASS Legacy layout action cannot silently rearrange garden 
+PASS Canvas greenhouse entrance opens editable winter garden 
+PASS All six destinations are available 
+PASS Indoor stage matches garden portrait dimensions 
+PASS Greenhouse shop opens relevant furniture filter 
+PASS Christmas thematic store contains 24 items 
+PASS Halloween thematic store contains 24 items 
+PASS Insufficient funds blocked 
+PASS Holiday purchase costs correct price and no special mode needed 
+PASS Already owned purchase is idempotent 
+PASS Holiday object can target garden and all rooms 
+PASS Item is placed in greenhouse only 
+PASS Greenhouse item does not leak into salon 
+PASS Moving room preserves purchase, only one instance exists 
+PASS Room arrow changes saved position 
+PASS All assignments and per-room styles persist through normalize 
+PASS Old indoor position without assignment becomes salon 
+PASS Wall customization belongs to selected room only 
+PASS Failed holiday purchase restores state 
+PASS Failed room move restores assignment and placement 
+PASS Failed room style change rolls back 
+PASS Existing catalogue sakura055 intact 
+PASS Existing catalogue anatolia056 intact 
+PASS Selection bar visible before confirmation 
+PASS Floating selection bar hidden behind confirmation 
+PASS Background noninteractive; overlay remains interactive 
+PASS Top layer at confirm button belongs to modal 
+PASS Cancel retains selection and restores action bar 
+PASS Select all selects both notes 
+CONFIRM ACTIONS ['close', 'close', 'confirm']
+PASS Confirmed bulk trash affects selected notes 
+PASS Undo bulk trash restores notes 
+PASS Sheet drag dismissal preserved and inert cleared 
+PASS Garden camera remains in bounds (1000000.0, 1000000.0) 
+PASS Garden camera remains in bounds (-1000000.0, -1000000.0) 
+PASS Garden camera remains in bounds (-1000000.0, 1000000.0) 
+PASS Garden camera remains in bounds (1000000.0, -1000000.0) 
+PASS salon canvas rendered large portrait 
+PASS kitchen canvas rendered large portrait 
+PASS bathroom canvas rendered large portrait 
+PASS lounge canvas rendered large portrait 
+PASS bedroom canvas rendered large portrait 
+PASS greenhouse canvas rendered large portrait 
+PASS Room no horizontal page overflow 320 
+PASS Room chooser within viewport 320 
+PASS Holiday shop no horizontal overflow 320 
+PASS Room no horizontal page overflow 390 
+PASS Room chooser within viewport 390 
+PASS Holiday shop no horizontal overflow 390 
+PASS Room no horizontal page overflow 430 
+PASS Room chooser within viewport 430 
+PASS Holiday shop no horizontal overflow 430 
+PASS Room no horizontal page overflow 844 
+PASS Room chooser within viewport 844 
+PASS Holiday shop no horizontal overflow 844 
+PASS Piano choices show three distinct meters 
+PASS Only selected piano has positive volume pianoMoon 
+PASS Only selected piano has positive volume pianoDawn 
+PASS Only selected piano has positive volume pianoSakura 
+PASS No unhandled application JS errors 
+PASS New holiday purchase uses test wallet first 
+PASS Test wallet does not regrant and room is preserved 
+RESULT 67 / 67

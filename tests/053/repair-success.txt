@@ -1,0 +1,13 @@
+Önce mevcut proje kodu yedekleniyor…
+No errors detected in compressed data of /tmp/luma053-k08_wi1m/home/Desktop/LumaNote_Yedekleri/LumaNote_053_oncesi_2026-09-30T08-53-57-568Z_1972.zip.
+KOD YEDEĞİ DOĞRULANDI: /tmp/luma053-k08_wi1m/home/Desktop/LumaNote_Yedekleri/LumaNote_053_oncesi_2026-09-30T08-53-57-568Z_1972.zip
+Özel dosyalar içerebilir; kendinde sakla. Telefon verilerinin yedeği değildir.
+Arayüz hazır: LUMA-0.5.3-STABLE-GARDEN · 4891 KB
+DOĞRULANDI: LUMA-0.5.3-STABLE-GARDEN · 30 kaynak kontrolü
+index.js → App.tsx → nocturne/UI_HTML.ts. Gerçek cihaz testi ayrı yapılır.
+
+DÜZELTME TAMAM: LUMA-0.5.3-STABLE-GARDEN
+Proje: /tmp/luma053-k08_wi1m/project with spaces
+Paketler yeniden kurulmadı. Veriler silinmedi.
+
+PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.

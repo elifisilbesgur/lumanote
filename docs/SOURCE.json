@@ -1,0 +1,10 @@
+{
+  "build": "LUMA-0.5.4-SEASONS-NOTES",
+  "base_archive": "LumaNote_v053_Duzeltilmis_Tam_Proje.zip",
+  "base_sha256": "ec9dae9b079d933c8cba0a5fc3441362f4dd73d74249567150d4f71de6cb4e0f",
+  "user_mac_inspected": false,
+  "native_storage_namespace_changed": false,
+  "package_dependencies_changed": false,
+  "audio_binary_download_in_delivery_environment": false,
+  "art": "Original code-rendered pixel model recipes, not copied reference files"
+}

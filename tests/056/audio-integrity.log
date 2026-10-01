@@ -1,0 +1,21 @@
+PASS ocean hash 
+PASS ocean stereo MP3 44.1k 
+PASS ocean duration 126.040816
+PASS ocean finite unclipped non-silent samples {'peak': 0.762434, 'rms': 0.094441}
+PASS fire hash 
+PASS fire stereo MP3 44.1k 
+PASS fire duration 126.040816
+PASS fire finite unclipped non-silent samples {'peak': 0.771754, 'rms': 0.065095}
+PASS pianoMoon hash 
+PASS pianoMoon stereo MP3 44.1k 
+PASS pianoMoon duration 102.347755
+PASS pianoMoon finite unclipped non-silent samples {'peak': 0.533123, 'rms': 0.101829}
+PASS pianoDawn hash 
+PASS pianoDawn stereo MP3 44.1k 
+PASS pianoDawn duration 83.043265
+PASS pianoDawn finite unclipped non-silent samples {'peak': 0.524302, 'rms': 0.101827}
+PASS pianoSakura hash 
+PASS pianoSakura stereo MP3 44.1k 
+PASS pianoSakura duration 93.048163
+PASS pianoSakura finite unclipped non-silent samples {'peak': 0.480854, 'rms': 0.101827}
+RESULT 20 / 20

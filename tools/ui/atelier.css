@@ -1,0 +1,19 @@
+/* 0.5.6 discoverable collections, compact memories, and clean camera controls. */
+.atelier-tabs056{display:flex!important;flex-wrap:wrap!important;overflow:visible!important;white-space:normal!important;gap:6px!important}
+.atelier-tabs056 button{flex:0 1 auto;font-size:11px;padding:10px 13px;min-height:40px}
+.collection-shortcuts056{display:grid;grid-template-columns:1fr;gap:10px;margin:4px 0 20px}
+.collection-shortcuts056>button{display:flex;align-items:center;gap:13px;padding:13px 15px;border:1px solid var(--line);border-radius:18px;background:var(--surface);text-align:left;color:var(--text);min-height:80px}
+.collection-shortcuts056>button>span{flex:1;display:flex;flex-direction:column;gap:5px}.collection-shortcuts056 small{font-size:11px;color:var(--muted)}.collection-shortcuts056 strong{font-size:14px}
+.memories056{margin:28px 0 24px}.memories-list056{display:grid;gap:8px}.memories-list056>button,.memory-empty056{display:flex;width:100%;align-items:center;gap:14px;padding:15px;border:1px solid var(--line);border-radius:17px;background:var(--surface);color:var(--text);text-align:left}.memories-list056>button>span,.memory-empty056>span{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}.memories-list056 strong{font-size:13px;overflow-wrap:anywhere}.memories056 small{font-size:11px;color:var(--muted);line-height:1.6}.memory-empty056 strong{font-size:14px}
+.memory-kinds056{display:grid;grid-template-columns:repeat(4,1fr);gap:7px;margin:17px 0 25px}.memory-kinds056 label{display:flex;align-items:center;gap:6px;flex-direction:column;padding:12px 5px;border:1px solid var(--line);border-radius:14px;font-size:11px;cursor:pointer}.memory-kinds056 label:has(input:checked){border-color:var(--accent);background:var(--surface)}.memory-kinds056 input{accent-color:var(--accent)}
+.camera-hint056{font-size:10px;color:var(--muted);text-align:center;padding:9px 0 0}.garden-full .camera-hint056{display:none}.garden-tools{gap:7px}.garden-stage .living-canvas{max-width:100%;user-select:none;-webkit-user-select:none}.garden-stage{overflow:hidden;isolation:isolate}
+.piano-panel056{border:1px solid var(--line);border-radius:17px;padding:14px;margin:18px 0}.piano-panel056 h3{font-size:15px;margin:0 0 11px}.piano-choices056{display:grid;grid-template-columns:1fr 1fr;gap:7px}.piano-choices056 button{border:1px solid var(--line);background:var(--surface);border-radius:12px;color:var(--text);padding:11px 8px;text-align:left;min-height:47px;font-size:11px}.piano-choices056 button.selected{border-color:var(--accent);color:var(--accent)}
+.audio-origin056{font-size:10px;line-height:1.7;color:var(--muted);margin:14px 0}.atelier-shop056 .shop-guide{display:flex;gap:9px;align-items:center}
+@media(min-width:600px){.collection-shortcuts056{grid-template-columns:1fr 1fr}.memories-list056{grid-template-columns:1fr 1fr}}
+
+[data-theme=opal056]{--bg:#10101d;--surface:#1b192b;--surface2:#29243b;--text:#faf1fa;--accent:#e9cce8;--muted:#b6abc3;--soft:#362e47;--glass:#1c1b30dc;--nav:#121220f2;--line:#e9cce825}
+[data-theme=emerald056]{--bg:#071411;--surface:#13271f;--surface2:#1c3529;--text:#edf9f1;--accent:#b5e1c7;--muted:#9db9a8;--soft:#244734;--glass:#10271fdf;--nav:#081811f2;--line:#b5e1c725}
+[data-theme=amber056]{--bg:#150e12;--surface:#281920;--surface2:#38272b;--text:#fff3e3;--accent:#f6cea0;--muted:#c4aba0;--soft:#4a3130;--glass:#27191cdd;--nav:#1b1217f2;--line:#f6cea025}
+[data-theme=cosmos056]{--bg:#0c0d1a;--surface:#171a31;--surface2:#252441;--text:#f3f2ff;--accent:#c8c4fc;--muted:#a4a4c5;--soft:#303057;--glass:#161830df;--nav:#0d1021f2;--line:#c8c4fc25}
+
+.piano-choices056 button{display:flex;gap:9px;align-items:center}.piano-panel056 small{font-size:10px;color:var(--muted)}

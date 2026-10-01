@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Two-finger zoom still works without +/- controls",
+    "passed": true
+  },
+  {
+    "name": "Zoomed camera pans from pointer gesture",
+    "passed": true
+  },
+  {
+    "name": "Double tap on empty garden resets zoom",
+    "passed": true
+  },
+  {
+    "name": "Old tea collection can target greenhouse directly",
+    "passed": true
+  },
+  {
+    "name": "Old tea object actually assigned greenhouse",
+    "passed": true
+  },
+  {
+    "name": "Drag movable item works inside greenhouse",
+    "passed": true
+  },
+  {
+    "name": "Rooms keep local state after serialized reopen",
+    "passed": true
+  },
+  {
+    "name": "Focus uses garden, not last room, as passive background",
+    "passed": true
+  },
+  {
+    "name": "Starting study clears room UI and does not hold input lock",
+    "passed": true
+  },
+  {
+    "name": "Pause preserved",
+    "passed": true
+  },
+  {
+    "name": "Resume preserved",
+    "passed": true
+  },
+  {
+    "name": "Partial saved study earns existing 3 coins/minute",
+    "passed": true
+  },
+  {
+    "name": "Repeated end has no duplicate reward",
+    "passed": true
+  },
+  {
+    "name": "Break grants no coins",
+    "passed": true
+  },
+  {
+    "name": "Formatting selected text still saves bold/color",
+    "passed": true
+  },
+  {
+    "name": "Saved rich text reopens",
+    "passed": true
+  },
+  {
+    "name": "All three audio arrangements decode in actual browser",
+    "passed": true
+  },
+  {
+    "name": "No uncaught JS error in gestures/study/notes",
+    "passed": true
+  }
+]
