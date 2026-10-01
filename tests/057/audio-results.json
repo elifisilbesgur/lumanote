@@ -1,0 +1,101 @@
+[
+  {
+    "name": "pianoMoon stereo 44.1 kHz MP3",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoMoon duration matches manifest",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoMoon SHA256 matches metadata",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoMoon finite non-silent and no hard clipping",
+    "passed": true,
+    "detail": {
+      "peak": 0.5168310403823853,
+      "rms": 0.0775696188211441
+    }
+  },
+  {
+    "name": "pianoMoon distinct written event score exists",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoDawn stereo 44.1 kHz MP3",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoDawn duration matches manifest",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoDawn SHA256 matches metadata",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoDawn finite non-silent and no hard clipping",
+    "passed": true,
+    "detail": {
+      "peak": 0.4780445992946625,
+      "rms": 0.07756032049655914
+    }
+  },
+  {
+    "name": "pianoDawn distinct written event score exists",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoSakura stereo 44.1 kHz MP3",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoSakura duration matches manifest",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoSakura SHA256 matches metadata",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "pianoSakura finite non-silent and no hard clipping",
+    "passed": true,
+    "detail": {
+      "peak": 0.42859989404678345,
+      "rms": 0.0775780975818634
+    }
+  },
+  {
+    "name": "pianoSakura distinct written event score exists",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Different meters across all three",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Different tempos across all three",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Distinct event density, not one renamed file",
+    "passed": true,
+    "detail": ""
+  }
+]

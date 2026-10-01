@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Version marker 056",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "12 additive Anatolia entries, no starter gifts",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Every 056 item has a distinct drawing",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Visible Japanese catalogue shortcut",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Japanese shortcut opens all 30 real models",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Anatolia tab shows all 12",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Insufficient funds guarded",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Price debits exactly once",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Repeat purchase no debit",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Tea can be placed inside",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Same ownership can move back outside",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New model purchase rollback",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No +/- buttons in garden toolbar",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Memory section after nursery",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Legacy memory name and kind survive",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Legacy memory enters standard edit selection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Memory right arrow changes actual saved position",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Memory position remains after normalized reload",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Hiding memory preserves metadata and removes scene hit",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Hidden memory can be restored",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No fake work for free new memorial",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New flower saved with no coin charge",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Memory objects have canvas hit tests",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Single finger/mouse pan works when zoomed",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Camera cannot expose outside bottom right",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Camera cannot expose outside top left",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Camera cannot expose outside top right",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Camera cannot expose outside bottom left",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Fit mode does not drift",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Actual Chromium multi-touch zooms",
+    "passed": true,
+    "detail": "2.36"
+  },
+  {
+    "name": "Pinch releases transient gesture state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Sheet touch-down dismissal retained",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Theme renderer opal056",
+    "passed": true,
+    "detail": "{'ctor': 'Lava', 'gl': False, 'err': None}"
+  },
+  {
+    "name": "Theme renderer emerald056",
+    "passed": true,
+    "detail": "{'ctor': 'Lava', 'gl': False, 'err': None}"
+  },
+  {
+    "name": "Theme renderer amber056",
+    "passed": true,
+    "detail": "{'ctor': 'Lava', 'gl': False, 'err': None}"
+  },
+  {
+    "name": "Theme renderer cosmos056",
+    "passed": true,
+    "detail": "{'ctor': 'Lava', 'gl': False, 'err': None}"
+  },
+  {
+    "name": "Theme renderer nocturne",
+    "passed": true,
+    "detail": "{'ctor': 'Lava', 'gl': False, 'err': None}"
+  },
+  {
+    "name": "Garden background still selected",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Theme renderer opal056",
+    "passed": true,
+    "detail": "{'ctor': 'Lava', 'gl': False, 'err': None}"
+  },
+  {
+    "name": "Reduced-motion lava stops its frame loop",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "All 4 piano choices visible",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Ocean and fire are not gated as missing recordings",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Generated audio provenance shown honestly",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Select piano keeps a single piano track volume",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Switch piano zeros previous channel",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Browser decodes packaged ocean",
+    "passed": true,
+    "detail": "{'key': 'ocean', 'd': 126, 'ch': 2}"
+  },
+  {
+    "name": "Browser decodes packaged fire",
+    "passed": true,
+    "detail": "{'key': 'fire', 'd': 126, 'ch': 2}"
+  },
+  {
+    "name": "Browser decodes packaged pianoMoon",
+    "passed": true,
+    "detail": "{'key': 'pianoMoon', 'd': 102.31034013605442, 'ch': 2}"
+  },
+  {
+    "name": "Browser decodes packaged pianoDawn",
+    "passed": true,
+    "detail": "{'key': 'pianoDawn', 'd': 83, 'ch': 2}"
+  },
+  {
+    "name": "Browser decodes packaged pianoSakura",
+    "passed": true,
+    "detail": "{'key': 'pianoSakura', 'd': 93, 'ch': 2}"
+  },
+  {
+    "name": "Concurrent audio calls share one decoded node",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Audio stop releases active buffers",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Garden bounds 320x700",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Catalogue wraps within viewport 320",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Garden bounds 375x812",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Catalogue wraps within viewport 375",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Garden bounds 390x844",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Catalogue wraps within viewport 390",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Garden bounds 430x932",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Catalogue wraps within viewport 430",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Garden bounds 844x390",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Catalogue wraps within viewport 844",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No unhandled browser exceptions",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Test purchase spends only test coins",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "056 reload does not grant another 100m",
+    "passed": true,
+    "detail": ""
+  }
+]

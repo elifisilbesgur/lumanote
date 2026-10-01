@@ -1,0 +1,30 @@
+PASS 056 update completes PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.
+
+PASS Preserved package-lock.json 
+PASS Preserved assets/recordings/fire.mp3 
+PASS Preserved node_modules/private-marker/module.js 
+PASS Preserved private.env 
+PASS Dependencies and package version preserved 
+PASS Custom npm script preserved 
+PASS Expo identity and all extra fields other than version preserved 
+PASS Test wallet flag remains enabled 
+PASS Backup ZIP integrity verified 
+PASS New piano files actually installed 
+PASS Ocean/fire unchanged 
+PASS Same update is idempotent PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.
+
+PASS Disabled test wallet stays disabled 
+PASS Test budget kapat command retained 
+PASS Test budget ac command retained 
+PASS Personal code change stops before writes 
+PASS Different SDK blocked without writes 
+PASS Symbolic source blocked 
+PASS Corrupt distribution blocked before mutation 
+PASS Failed postwrite verification restores all files 
+PASS Failed update leaves no install lock 
+PASS Manifest path traversal blocked 
+PASS 054 can update directly PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.
+
+PASS 055 can update directly PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.
+
+RESULT 25 / 25

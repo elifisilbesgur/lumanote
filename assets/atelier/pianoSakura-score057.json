@@ -1,0 +1,769 @@
+{
+  "title": "Camdaki Damlalar",
+  "bpm": 84,
+  "meter": "6/8",
+  "events": [
+    {
+      "midi": 39,
+      "at": 0.0,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 46,
+      "at": 2.143,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 58,
+      "at": 0.714,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 63,
+      "at": 2.857,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 75,
+      "at": 0.357,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 79,
+      "at": 1.429,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 3.214,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 44,
+      "at": 4.286,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 51,
+      "at": 6.429,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 63,
+      "at": 5.0,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 68,
+      "at": 7.143,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 86,
+      "at": 5.0,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 7.143,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 36,
+      "at": 8.571,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 43,
+      "at": 10.714,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 9.286,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 60,
+      "at": 11.429,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 79,
+      "at": 8.929,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 77,
+      "at": 10.0,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 75,
+      "at": 11.786,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 46,
+      "at": 12.857,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 53,
+      "at": 15.0,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 65,
+      "at": 13.571,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 70,
+      "at": 15.714,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 82,
+      "at": 14.643,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 39,
+      "at": 17.143,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 46,
+      "at": 19.286,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 58,
+      "at": 17.857,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 63,
+      "at": 20.0,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 84,
+      "at": 17.5,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 18.571,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 79,
+      "at": 20.357,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 44,
+      "at": 21.429,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 51,
+      "at": 23.571,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 63,
+      "at": 22.143,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 68,
+      "at": 24.286,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 77,
+      "at": 22.143,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 75,
+      "at": 24.286,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 36,
+      "at": 25.714,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 43,
+      "at": 27.857,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 26.429,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 60,
+      "at": 28.571,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 82,
+      "at": 26.071,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 86,
+      "at": 27.143,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 87,
+      "at": 28.929,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 46,
+      "at": 30.0,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 53,
+      "at": 32.143,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 65,
+      "at": 30.714,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 70,
+      "at": 32.857,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 86,
+      "at": 30.714,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 32.857,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 39,
+      "at": 34.286,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 46,
+      "at": 36.429,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 58,
+      "at": 35.0,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 63,
+      "at": 37.143,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 75,
+      "at": 34.643,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 79,
+      "at": 35.714,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 37.5,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 44,
+      "at": 38.571,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 51,
+      "at": 40.714,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 63,
+      "at": 39.286,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 68,
+      "at": 41.429,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 86,
+      "at": 39.286,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 41.429,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 36,
+      "at": 42.857,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 43,
+      "at": 45.0,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 43.571,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 60,
+      "at": 45.714,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 79,
+      "at": 43.214,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 77,
+      "at": 44.286,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 75,
+      "at": 46.071,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 46,
+      "at": 47.143,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 53,
+      "at": 49.286,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 65,
+      "at": 47.857,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 70,
+      "at": 50.0,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 82,
+      "at": 48.929,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 39,
+      "at": 51.429,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 46,
+      "at": 53.571,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 58,
+      "at": 52.143,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 63,
+      "at": 54.286,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 84,
+      "at": 51.786,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 52.857,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 79,
+      "at": 54.643,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 44,
+      "at": 55.714,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 51,
+      "at": 57.857,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 63,
+      "at": 56.429,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 68,
+      "at": 58.571,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 77,
+      "at": 56.429,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 75,
+      "at": 58.571,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 36,
+      "at": 60.0,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 43,
+      "at": 62.143,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 60.714,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 60,
+      "at": 62.857,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 82,
+      "at": 60.357,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 86,
+      "at": 61.429,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 87,
+      "at": 63.214,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 46,
+      "at": 64.286,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 53,
+      "at": 66.429,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 65,
+      "at": 65.0,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 70,
+      "at": 67.143,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 86,
+      "at": 65.0,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 67.143,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 39,
+      "at": 68.571,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 46,
+      "at": 70.714,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 58,
+      "at": 69.286,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 63,
+      "at": 71.429,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 75,
+      "at": 68.929,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 79,
+      "at": 70.0,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 71.786,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 44,
+      "at": 72.857,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 51,
+      "at": 75.0,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 63,
+      "at": 73.571,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 68,
+      "at": 75.714,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 86,
+      "at": 73.571,
+      "gate": 0.5,
+      "velocity": 0.27
+    },
+    {
+      "midi": 82,
+      "at": 75.714,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 36,
+      "at": 77.143,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 43,
+      "at": 79.286,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 77.857,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 60,
+      "at": 80.0,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 79,
+      "at": 77.5,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 77,
+      "at": 78.571,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 75,
+      "at": 80.357,
+      "gate": 0.786,
+      "velocity": 0.27
+    },
+    {
+      "midi": 46,
+      "at": 81.429,
+      "gate": 1.5,
+      "velocity": 0.19
+    },
+    {
+      "midi": 53,
+      "at": 83.571,
+      "gate": 1.071,
+      "velocity": 0.17
+    },
+    {
+      "midi": 65,
+      "at": 82.143,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 70,
+      "at": 84.286,
+      "gate": 0.643,
+      "velocity": 0.12
+    },
+    {
+      "midi": 82,
+      "at": 83.214,
+      "gate": 0.786,
+      "velocity": 0.27
+    }
+  ]
+}

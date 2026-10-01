@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cumulative 05 ->056 installs",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 05 includes actual Japanese and Atelier code",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 05 ships local ocean and fire files",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 053 ->056 installs",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 053 includes actual Japanese and Atelier code",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 053 ships local ocean and fire files",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 055 ->056 installs",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 055 includes actual Japanese and Atelier code",
+    "passed": true
+  },
+  {
+    "name": "Cumulative 055 ships local ocean and fire files",
+    "passed": true
+  },
+  {
+    "name": "Historical 054->055 installer succeeds",
+    "passed": true
+  },
+  {
+    "name": "Actual previously patched 055->056 succeeds",
+    "passed": true
+  },
+  {
+    "name": "Corrupt audio rejected before changing target",
+    "passed": true
+  }
+]

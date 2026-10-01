@@ -1,0 +1,13 @@
+PASS Cumulative 05 ->056 installs
+PASS Cumulative 05 includes actual Japanese and Atelier code
+PASS Cumulative 05 ships local ocean and fire files
+PASS Cumulative 053 ->056 installs
+PASS Cumulative 053 includes actual Japanese and Atelier code
+PASS Cumulative 053 ships local ocean and fire files
+PASS Cumulative 055 ->056 installs
+PASS Cumulative 055 includes actual Japanese and Atelier code
+PASS Cumulative 055 ships local ocean and fire files
+PASS Historical 054->055 installer succeeds
+PASS Actual previously patched 055->056 succeeds
+PASS Corrupt audio rejected before changing target
+RESULT 12 / 12

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "scoped crypto resolver ios @noble/hashes/crypto",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver android @noble/hashes/crypto",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver ios @noble/hashes/crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver android @noble/hashes/crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver ios ./crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver android ./crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver ios /app/node_modules/@noble/hashes/crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver android /app/node_modules/@noble/hashes/crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver ios /app/node_modules/@noble/hashes/esm/crypto.js",
+    "passed": true
+  },
+  {
+    "name": "scoped crypto resolver android /app/node_modules/@noble/hashes/esm/crypto.js",
+    "passed": true
+  },
+  {
+    "name": "package exports remain enabled",
+    "passed": true
+  },
+  {
+    "name": "web resolution unaffected",
+    "passed": true
+  },
+  {
+    "name": "other dependencies unaffected",
+    "passed": true
+  },
+  {
+    "name": "unrelated crypto.js import not redirected",
+    "passed": true
+  },
+  {
+    "name": "TS syntax AudioAssets.ts",
+    "passed": true
+  },
+  {
+    "name": "TS syntax AudioEngine.tsx",
+    "passed": true
+  },
+  {
+    "name": "TS syntax BackupCrypto.ts",
+    "passed": true
+  },
+  {
+    "name": "TS syntax NativeServices.ts",
+    "passed": true
+  },
+  {
+    "name": "TS syntax NobleCrypto.ts",
+    "passed": true
+  },
+  {
+    "name": "TS syntax types.ts",
+    "passed": true
+  },
+  {
+    "name": "TS syntax App.tsx",
+    "passed": true
+  },
+  {
+    "name": "crypto provider uses native secure getRandomValues",
+    "passed": true
+  },
+  {
+    "name": "idle audio mounts no track players",
+    "passed": true
+  },
+  {
+    "name": "one audible channel mounts only one track",
+    "passed": true
+  },
+  {
+    "name": "two audible channels mount two tracks",
+    "passed": true
+  },
+  {
+    "name": "native UI omits duplicated base64 audio",
+    "passed": true
+  },
+  {
+    "name": "encryption algorithm source unchanged",
+    "passed": true
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "environment": "Transpiled actual TypeScript; memory FS and Expo adapters; no native/crypto binaries",
+  "checks": [
+    {
+      "name": "TypeScript syntax App.tsx",
+      "pass": true
+    },
+    {
+      "name": "TypeScript syntax nocturne/NativeServices.ts",
+      "pass": true
+    },
+    {
+      "name": "TypeScript syntax nocturne/AudioEngine.tsx",
+      "pass": true
+    },
+    {
+      "name": "TypeScript syntax nocturne/BackupCrypto.ts",
+      "pass": true
+    },
+    {
+      "name": "Old state copied rather than replaced",
+      "pass": true
+    },
+    {
+      "name": "Old attachment remains unchanged",
+      "pass": true
+    },
+    {
+      "name": "New attachment stored in versioned directory",
+      "pass": true
+    },
+    {
+      "name": "Native migration saves a local v04 snapshot",
+      "pass": true
+    },
+    {
+      "name": "New state saved to independent versioned store",
+      "pass": true
+    },
+    {
+      "name": "Version 04 store remains byte identical after new save",
+      "pass": true
+    },
+    {
+      "name": "No writes/deletes under old root",
+      "pass": true
+    },
+    {
+      "name": "Subsequent launch reads new state, not old",
+      "pass": true
+    },
+    {
+      "name": "Corrupt new state never silently falls back to older state",
+      "pass": true
+    },
+    {
+      "name": "Interrupted native write can recover previous valid state",
+      "pass": true
+    },
+    {
+      "name": "Corrupt legacy state does not silently create empty data",
+      "pass": true
+    },
+    {
+      "name": "PDF bridge rejects directory traversal",
+      "pass": true
+    },
+    {
+      "name": "PDF bridge never fetches remote files",
+      "pass": true
+    },
+    {
+      "name": "Native mixer includes piano and clamps volume",
+      "pass": true
+    },
+    {
+      "name": "Unencrypted empty backup metadata accepts schema 3",
+      "pass": true
+    }
+  ]
+}

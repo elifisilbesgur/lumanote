@@ -1,0 +1,475 @@
+{
+  "title": "Gece Notları",
+  "bpm": 48,
+  "meter": "4/4",
+  "events": [
+    {
+      "midi": 38,
+      "at": 0.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 57,
+      "at": 0.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 0.228,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 0.268,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 69,
+      "at": 1.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 65,
+      "at": 3.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 34,
+      "at": 5.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 53,
+      "at": 5.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 58,
+      "at": 5.228,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 5.268,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 67,
+      "at": 6.25,
+      "gate": 2.5,
+      "velocity": 0.35
+    },
+    {
+      "midi": 41,
+      "at": 10.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 60,
+      "at": 10.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 10.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 69,
+      "at": 10.268,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 72,
+      "at": 11.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 70,
+      "at": 13.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 33,
+      "at": 15.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 69,
+      "at": 16.25,
+      "gate": 2.5,
+      "velocity": 0.35
+    },
+    {
+      "midi": 38,
+      "at": 20.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 57,
+      "at": 20.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 20.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 20.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 21.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 64,
+      "at": 23.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 34,
+      "at": 25.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 53,
+      "at": 25.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 58,
+      "at": 25.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 25.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 67,
+      "at": 26.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 69,
+      "at": 28.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 41,
+      "at": 30.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 60,
+      "at": 30.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 30.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 69,
+      "at": 30.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 74,
+      "at": 31.25,
+      "gate": 2.5,
+      "velocity": 0.35
+    },
+    {
+      "midi": 33,
+      "at": 35.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 69,
+      "at": 36.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 65,
+      "at": 38.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 38,
+      "at": 40.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 57,
+      "at": 40.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 40.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 40.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 69,
+      "at": 41.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 65,
+      "at": 43.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 34,
+      "at": 45.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 53,
+      "at": 45.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 58,
+      "at": 45.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 45.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 67,
+      "at": 46.25,
+      "gate": 2.5,
+      "velocity": 0.35
+    },
+    {
+      "midi": 41,
+      "at": 50.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 60,
+      "at": 50.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 50.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 69,
+      "at": 50.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 72,
+      "at": 51.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 70,
+      "at": 53.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 33,
+      "at": 55.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 69,
+      "at": 56.25,
+      "gate": 2.5,
+      "velocity": 0.35
+    },
+    {
+      "midi": 38,
+      "at": 60.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 57,
+      "at": 60.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 60.227,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 60.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 61.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 64,
+      "at": 63.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 34,
+      "at": 65.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 53,
+      "at": 65.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 58,
+      "at": 65.228,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 62,
+      "at": 65.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 67,
+      "at": 66.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 69,
+      "at": 68.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 41,
+      "at": 70.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 60,
+      "at": 70.188,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 65,
+      "at": 70.228,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 69,
+      "at": 70.267,
+      "gate": 3.5,
+      "velocity": 0.13
+    },
+    {
+      "midi": 74,
+      "at": 71.25,
+      "gate": 2.5,
+      "velocity": 0.35
+    },
+    {
+      "midi": 33,
+      "at": 75.0,
+      "gate": 4.25,
+      "velocity": 0.31
+    },
+    {
+      "midi": 69,
+      "at": 76.25,
+      "gate": 1.375,
+      "velocity": 0.35
+    },
+    {
+      "midi": 65,
+      "at": 78.375,
+      "gate": 1.375,
+      "velocity": 0.35
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+PASS repair in path with spaces
+PASS existing dependency lock unchanged
+PASS existing dependency tree unchanged
+PASS custom scripts and dependencies preserved
+PASS app slug and private fields preserved
+PASS native data storage service untouched
+PASS private local file unchanged
+PASS verified backup created
+PASS backup contains original source
+PASS backup keeps package lock and private env
+PASS backup excludes node_modules
+PASS idempotent repair can be re-run
+PASS custom code rejected without overwrite
+PASS wrong SDK rejected
+PASS target source symlink rejected
+PASS build validation failure reported
+PASS transaction restores every original file
+PASS failed transaction retains backup
+PASS repair package still verifies source
+RESULT 19 / 19

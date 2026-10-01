@@ -1,0 +1,17 @@
+{
+  "build": "LUMA-0.5-LIVING-GARDEN",
+  "createdDate": "2026-09-30",
+  "basis": [
+    {
+      "name": "LumaNote_Nocturne_Final.zip",
+      "sha256": "a89812423ecd9310c2a51696663a35cfbd1e1610951ae7c1cb6d0bde6e96b75d"
+    },
+    {
+      "name": "LumaNote_v04_Pixel_Garden.zip",
+      "sha256": "a95f3aee1f482fd3dfcdb616777bed41d63cf8463f426d956fdc88fd13a4e77d"
+    }
+  ],
+  "userMacSnapshotReceived": false,
+  "physicalDeviceTested": false,
+  "npmInstallTested": false
+}

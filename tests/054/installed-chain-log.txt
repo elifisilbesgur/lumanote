@@ -1,0 +1,14 @@
+Önce mevcut proje kodu yedekleniyor…
+No errors detected in compressed data of /tmp/luma-real-chain-io0p1fwd/home/Desktop/LumaNote_Yedekleri/LumaNote_054_oncesi_2026-09-30T15-12-41-618Z_4322.zip.
+KOD YEDEĞİ DOĞRULANDI: /tmp/luma-real-chain-io0p1fwd/home/Desktop/LumaNote_Yedekleri/LumaNote_054_oncesi_2026-09-30T15-12-41-618Z_4322.zip
+Özel dosyalar içerebilir; kendinde sakla. Telefon verilerinin yedeği değildir.
+Ses indirme bu çalıştırmada atlandı (LUMA_SKIP_RECORDINGS).
+Arayüz hazır: LUMA-0.5.4-SEASONS-NOTES · 5060 KB
+DOĞRULANDI: LUMA-0.5.4-SEASONS-NOTES · 35 kaynak kontrolü
+index.js → App.tsx → nocturne/UI_HTML.ts. Gerçek cihaz testi ayrı yapılır.
+
+DÜZELTME TAMAM: LUMA-0.5.4-SEASONS-NOTES
+Proje: /tmp/luma-real-chain-io0p1fwd/LumaNote_Yasayan_Bahce
+Paketler yeniden kurulmadı. Veriler silinmedi.
+
+PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.

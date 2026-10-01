@@ -1,0 +1,37 @@
+/* A dedicated high overlay context prevents fixed selection tools crossing it. */
+#overlay-root{position:absolute;inset:0;z-index:300;pointer-events:none}
+#overlay-root:empty{display:none}
+#overlay-root .modal-backdrop{pointer-events:auto;z-index:1}
+body.sheet-open053 .bulk-bar054{visibility:hidden!important;pointer-events:none!important}
+.bulk-bar054{z-index:16}
+#toast{z-index:340}
+.sheet-head{align-items:flex-start;gap:12px}
+.sheet-head h2{min-width:0;flex:1;line-height:1.13;overflow-wrap:anywhere;font-size:clamp(23px,6.3vw,32px)}
+.sheet-head .icon-btn{flex:none;margin-top:1px}
+.garden-page .garden-stage.room-stage057{width:100%;height:auto;min-height:0;aspect-ratio:3/4;display:block}
+.garden-full .garden-stage.room-stage057{aspect-ratio:auto;height:auto;min-height:0;flex:1}
+.indoor-page057 .section-heading h1{font-size:clamp(32px,9vw,44px)}
+.space-tabs057{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px;margin:12px 0}
+.space-tabs057 button{font-size:11px;border:1px solid var(--line);border-radius:12px;min-height:43px;color:var(--muted);padding:6px;background:var(--surface)}
+.space-tabs057 .selected{background:var(--soft);color:var(--accent)}
+.room-exit057{display:flex;align-items:center;justify-content:center;gap:8px;min-height:44px;width:100%;color:var(--accent);margin:12px 0}
+.space-menu057{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.space-menu057 button{min-height:145px;padding:12px;border-radius:17px;border:1px solid var(--line);background:var(--surface);display:flex;flex-direction:column;align-items:center;gap:5px;color:var(--text)}
+.space-menu057 small{font-size:10px;color:var(--muted)}
+.space-menu057 strong{font-size:13px}
+.destination-grid057{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.destination-grid057 button{min-height:67px;border:1px solid var(--line);border-radius:14px;background:var(--surface);color:var(--text);display:flex;align-items:center;justify-content:center;gap:7px;padding:8px;font-size:12px}
+.move-room057{margin-top:12px;min-height:44px}
+.haven-tabs057{display:flex!important;flex-wrap:wrap!important;white-space:normal!important;gap:6px;overflow:visible!important}
+.haven-tabs057 button{padding:9px 11px;font-size:10px;min-height:36px;flex:none}
+.haven-shop057 h1{font-size:clamp(32px,10vw,46px)}
+.haven-card057 .sakura-art055{height:128px}
+.haven-card057 h3{min-height:34px;line-height:1.35;font-size:12px}
+.garden-quiet-stats{flex-wrap:wrap;gap:10px}
+.garden-quiet-stats button{display:flex;align-items:center;gap:4px;min-height:40px;font-size:12px}
+@media(max-width:349px){.garden-dock button{font-size:10px}.destination-grid057 button{font-size:10px}}
+.piano-choices056 button{display:flex;flex-wrap:wrap;align-items:center;gap:6px;padding:12px}
+.piano-style057{display:block;flex-basis:100%;font-size:9px;line-height:1.4;color:var(--muted);text-align:left}
+
+body.sheet-open053 #toast{top:calc(16px + var(--safe-top));bottom:auto}
+body.sheet-open053 #navigation{visibility:hidden}

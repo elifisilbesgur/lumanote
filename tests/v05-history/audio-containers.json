@@ -1,0 +1,92 @@
+[
+  {
+    "file": "assets/nocturne/bell.wav",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "pcm_s16le",
+        "sample_rate": "22050",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "1.800000"
+    }
+  },
+  {
+    "file": "assets/nocturne/brown.mp3",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "22050",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "24.058776"
+    }
+  },
+  {
+    "file": "assets/nocturne/fire.mp3",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "22050",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "48.065306"
+    }
+  },
+  {
+    "file": "assets/nocturne/ocean.mp3",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "22050",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "48.065306"
+    }
+  },
+  {
+    "file": "assets/nocturne/piano.mp3",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "22050",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "48.065306"
+    }
+  },
+  {
+    "file": "assets/nocturne/rain.mp3",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "22050",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "48.065306"
+    }
+  }
+]

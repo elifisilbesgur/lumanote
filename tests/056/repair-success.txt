@@ -1,0 +1,13 @@
+Önce mevcut proje kodu yedekleniyor…
+No errors detected in compressed data of /tmp/luma055-check-ugm0g2nb/home/Desktop/LumaNote_Yedekleri/LumaNote_056_oncesi_2026-09-30T18-13-42-395Z_4418.zip.
+KOD YEDEĞİ DOĞRULANDI: /tmp/luma055-check-ugm0g2nb/home/Desktop/LumaNote_Yedekleri/LumaNote_056_oncesi_2026-09-30T18-13-42-395Z_4418.zip
+Bu arşiv telefon verilerini içermez; özel yapılandırmalar içerebilir.
+Arayüz hazır: LUMA-0.5.6-ATELIER · 19808 KB
+DOĞRULANDI: LUMA-0.5.6-ATELIER · 56 kaynak kontrolü
+index.js → App.tsx → nocturne/UI_HTML.ts. Gerçek cihaz testi ayrı yapılır.
+
+TAMAMLANDI: LUMA-0.5.6-ATELIER
+Proje: /tmp/luma055-check-ugm0g2nb/plain054
+Test jetonu ayarı: KAPALI
+Kurulu paketler, eski ses kayıtları ve kişisel veriler korunur. Yeni Atölye ses dosyaları eklendi.
+PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.

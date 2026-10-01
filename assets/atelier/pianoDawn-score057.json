@@ -1,0 +1,2923 @@
+{
+  "title": "Sabah Valsi",
+  "bpm": 108,
+  "meter": "3/4",
+  "events": [
+    {
+      "midi": 43,
+      "at": 0.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 0.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 0.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 0.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 1.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 1.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 1.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 79,
+      "at": 0.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 0.278,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 0.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 1.389,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 1.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 2.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 2.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 2.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 2.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 2.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 2.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 1.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 1.944,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 2.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 3.056,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 3.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 3.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 3.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 3.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 4.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 4.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 4.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 81,
+      "at": 3.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 3.889,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 4.444,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 5.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 5.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 5.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 5.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 6.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 6.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 6.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 5.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 5.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 6.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 7.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 7.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 7.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 7.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 7.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 7.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 76,
+      "at": 6.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 6.944,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 71,
+      "at": 7.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 69,
+      "at": 8.056,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 8.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 8.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 8.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 8.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 9.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 9.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 9.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 8.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 8.889,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 9.444,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 10.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 10.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 10.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 10.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 11.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 11.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 11.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 10.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 10.556,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 11.111,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 11.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 12.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 12.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 12.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 12.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 12.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 12.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 11.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 12.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 13.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 13.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 13.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 13.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 14.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 14.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 14.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 79,
+      "at": 13.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 13.611,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 14.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 14.722,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 15.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 15.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 15.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 15.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 16.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 16.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 16.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 15.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 15.278,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 15.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 16.389,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 16.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 17.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 17.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 17.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 17.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 17.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 17.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 81,
+      "at": 16.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 17.222,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 17.778,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 18.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 18.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 18.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 18.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 19.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 19.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 19.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 18.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 19.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 20.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 20.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 20.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 20.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 21.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 21.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 21.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 76,
+      "at": 20.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 20.278,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 71,
+      "at": 20.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 69,
+      "at": 21.389,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 21.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 22.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 22.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 22.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 22.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 22.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 22.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 21.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 22.222,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 22.778,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 23.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 23.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 23.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 23.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 24.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 24.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 24.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 23.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 23.889,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 24.444,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 25.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 25.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 25.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 25.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 26.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 26.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 26.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 25.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 25.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 26.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 27.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 27.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 27.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 27.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 27.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 27.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 79,
+      "at": 26.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 26.944,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 27.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 28.056,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 28.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 28.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 28.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 28.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 29.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 29.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 29.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 28.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 28.611,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 29.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 29.722,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 30.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 30.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 30.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 30.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 31.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 31.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 31.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 81,
+      "at": 30.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 30.556,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 31.111,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 31.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 32.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 32.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 32.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 32.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 32.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 32.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 31.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 32.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 33.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 33.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 33.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 33.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 34.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 34.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 34.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 76,
+      "at": 33.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 33.611,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 71,
+      "at": 34.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 69,
+      "at": 34.722,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 35.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 35.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 35.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 35.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 36.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 36.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 36.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 35.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 35.556,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 36.111,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 36.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 37.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 37.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 37.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 37.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 37.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 37.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 36.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 37.222,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 37.778,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 38.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 38.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 38.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 38.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 39.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 39.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 39.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 38.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 39.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 40.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 40.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 40.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 40.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 41.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 41.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 41.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 79,
+      "at": 40.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 40.278,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 40.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 41.389,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 41.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 42.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 42.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 42.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 42.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 42.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 42.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 41.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 41.944,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 42.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 43.056,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 43.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 43.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 43.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 43.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 44.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 44.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 44.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 81,
+      "at": 43.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 43.889,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 44.444,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 45.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 45.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 45.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 45.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 46.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 46.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 46.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 45.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 45.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 46.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 47.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 47.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 47.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 47.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 47.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 47.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 76,
+      "at": 46.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 46.944,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 71,
+      "at": 47.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 69,
+      "at": 48.056,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 48.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 48.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 48.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 48.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 49.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 49.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 49.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 48.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 48.889,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 49.444,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 50.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 50.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 50.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 50.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 51.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 51.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 51.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 50.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 50.556,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 51.111,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 51.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 52.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 52.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 52.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 52.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 52.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 52.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 51.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 52.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 53.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 53.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 53.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 53.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 54.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 54.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 54.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 79,
+      "at": 53.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 53.611,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 54.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 54.722,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 55.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 55.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 55.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 55.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 56.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 56.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 56.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 55.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 55.278,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 55.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 56.389,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 56.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 57.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 57.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 57.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 57.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 57.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 57.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 81,
+      "at": 56.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 57.222,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 57.778,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 58.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 58.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 58.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 58.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 59.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 59.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 59.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 58.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 59.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 60.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 60.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 60.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 60.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 61.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 61.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 61.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 76,
+      "at": 60.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 60.278,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 71,
+      "at": 60.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 69,
+      "at": 61.389,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 61.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 62.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 62.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 62.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 62.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 62.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 62.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 61.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 62.222,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 62.778,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 63.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 63.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 63.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 63.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 64.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 64.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 64.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 63.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 63.889,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 64.444,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 65.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 65.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 65.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 65.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 66.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 66.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 66.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 65.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 65.833,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 66.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 67.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 67.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 67.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 67.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 67.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 67.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 79,
+      "at": 66.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 66.944,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 67.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 68.056,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 68.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 68.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 68.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 68.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 69.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 69.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 69.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 68.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 68.611,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 78,
+      "at": 69.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 69.722,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 70.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 70.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 70.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 70.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 71.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 71.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 71.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 81,
+      "at": 70.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 70.556,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 71.111,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 71.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 72.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 72.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 72.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 72.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 72.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 72.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 71.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 72.5,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 43,
+      "at": 73.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 62,
+      "at": 73.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 73.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 73.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 74.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 74.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 74.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 76,
+      "at": 73.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 73.611,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 71,
+      "at": 74.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 69,
+      "at": 74.722,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 40,
+      "at": 75.0,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 59,
+      "at": 75.556,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 75.564,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 75.572,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 59,
+      "at": 76.111,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 76.119,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 67,
+      "at": 76.127,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 74,
+      "at": 75.0,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 75.556,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 79,
+      "at": 76.111,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 36,
+      "at": 76.667,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 55,
+      "at": 77.222,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 77.23,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 77.238,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 55,
+      "at": 77.778,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 60,
+      "at": 77.786,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 64,
+      "at": 77.794,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 78,
+      "at": 76.667,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 76,
+      "at": 77.222,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 77.778,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 38,
+      "at": 78.333,
+      "gate": 0.361,
+      "velocity": 0.32
+    },
+    {
+      "midi": 57,
+      "at": 78.889,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 78.897,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 78.905,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 57,
+      "at": 79.444,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 62,
+      "at": 79.452,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 66,
+      "at": 79.46,
+      "gate": 0.278,
+      "velocity": 0.17
+    },
+    {
+      "midi": 71,
+      "at": 78.333,
+      "gate": 0.306,
+      "velocity": 0.32
+    },
+    {
+      "midi": 74,
+      "at": 79.167,
+      "gate": 0.306,
+      "velocity": 0.32
+    }
+  ]
+}

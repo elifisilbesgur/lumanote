@@ -1,0 +1,34 @@
+PASS scoped crypto resolver ios @noble/hashes/crypto
+PASS scoped crypto resolver android @noble/hashes/crypto
+PASS scoped crypto resolver ios @noble/hashes/crypto.js
+PASS scoped crypto resolver android @noble/hashes/crypto.js
+PASS scoped crypto resolver ios ./crypto.js
+PASS scoped crypto resolver android ./crypto.js
+PASS scoped crypto resolver ios /app/node_modules/@noble/hashes/crypto.js
+PASS scoped crypto resolver android /app/node_modules/@noble/hashes/crypto.js
+PASS scoped crypto resolver ios /app/node_modules/@noble/hashes/esm/crypto.js
+PASS scoped crypto resolver android /app/node_modules/@noble/hashes/esm/crypto.js
+PASS package exports remain enabled
+PASS web resolution unaffected
+PASS other dependencies unaffected
+PASS unrelated crypto.js import not redirected
+PASS TS syntax AudioAssets.ts
+PASS TS syntax AudioEngine.tsx
+PASS TS syntax BackupCrypto.ts
+PASS TS syntax NativeServices.ts
+PASS TS syntax NobleCrypto.ts
+PASS TS syntax types.ts
+PASS TS syntax App.tsx
+PASS crypto provider uses native secure getRandomValues
+PASS idle audio mounts no track players
+PASS one audible channel mounts only one track
+PASS two audible channels mount two tracks
+PASS native UI omits duplicated base64 audio
+PASS encryption algorithm source unchanged
+PASS native service admits pianoMoon
+PASS native engine mounts pianoMoon
+PASS native service admits pianoDawn
+PASS native engine mounts pianoDawn
+PASS native service admits pianoSakura
+PASS native engine mounts pianoSakura
+RESULT 33 / 33

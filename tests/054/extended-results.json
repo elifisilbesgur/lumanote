@@ -1,0 +1,83 @@
+{
+  "checks": [
+    {
+      "name": "Furniture bounds constrained indoors",
+      "pass": true
+    },
+    {
+      "name": "Large outdoor model bounds constrained",
+      "pass": true
+    },
+    {
+      "name": "Mode field cannot activate unowned purchase",
+      "pass": true
+    },
+    {
+      "name": "Concurrent mode purchase opens one confirmation",
+      "pass": true
+    },
+    {
+      "name": "Concurrent mode purchase charges once",
+      "pass": true
+    },
+    {
+      "name": "Select all marks active list",
+      "pass": true
+    },
+    {
+      "name": "Second select all clears selection",
+      "pass": true
+    },
+    {
+      "name": "Trash bulk restore affects selected only",
+      "pass": true
+    },
+    {
+      "name": "Permanent delete limited to selected trashed note",
+      "pass": true
+    },
+    {
+      "name": "Bulk archive non-selected unchanged",
+      "pass": true
+    },
+    {
+      "name": "Bulk unarchive restores active list",
+      "pass": true
+    },
+    {
+      "name": "Concurrent bulk trash opens one confirmation",
+      "pass": true
+    },
+    {
+      "name": "Cancelled bulk leaves notes intact",
+      "pass": true
+    },
+    {
+      "name": "Hidden interior selection cleared outdoors",
+      "pass": true
+    },
+    {
+      "name": "Repeated arrow cannot leave interior",
+      "pass": true
+    },
+    {
+      "name": "Failed move persistence rolls back",
+      "pass": true
+    },
+    {
+      "name": "Outdoor camera still centered after room edit",
+      "pass": true
+    },
+    {
+      "name": "Actual browser touch swipe dismisses weather sheet",
+      "pass": true
+    },
+    {
+      "name": "No browser errors in extended scenarios",
+      "pass": true
+    }
+  ],
+  "passed": 19,
+  "total": 19,
+  "errors": []
+}

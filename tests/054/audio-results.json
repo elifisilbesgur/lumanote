@@ -1,0 +1,114 @@
+{
+  "checks": [
+    {
+      "name": "Source catalogue exact ocean attribution",
+      "pass": true
+    },
+    {
+      "name": "Source catalogue exact fire CC0",
+      "pass": true
+    },
+    {
+      "name": "Preview absolute link extracted",
+      "pass": true
+    },
+    {
+      "name": "Preview escaped JSON URL extracted",
+      "pass": true
+    },
+    {
+      "name": "Preview scheme-relative extracted",
+      "pass": true
+    },
+    {
+      "name": "Preview local path extracted",
+      "pass": true
+    },
+    {
+      "name": "Changed licence rejected",
+      "pass": true
+    },
+    {
+      "name": "Wrong recording ID rejected",
+      "pass": true
+    },
+    {
+      "name": "Reject unsafe URL http://freesound.org/a",
+      "pass": true
+    },
+    {
+      "name": "Reject unsafe URL https://freesound.org.evil.test/a",
+      "pass": true
+    },
+    {
+      "name": "Reject unsafe URL https://evil.test/a",
+      "pass": true
+    },
+    {
+      "name": "Reject unsafe URL https://a:b@freesound.org/a",
+      "pass": true
+    },
+    {
+      "name": "Reject unsafe URL https://freesound.org:123/a",
+      "pass": true
+    },
+    {
+      "name": "Reject unsafe URL file:///tmp/test",
+      "pass": true
+    },
+    {
+      "name": "MP3 header/minimum-size check",
+      "pass": true
+    },
+    {
+      "name": "Two public previews stored atomically with provenance",
+      "pass": true
+    },
+    {
+      "name": "Local SHA validates downloaded bytes",
+      "pass": true
+    },
+    {
+      "name": "Credit, licence and playback-change note retained",
+      "pass": true
+    },
+    {
+      "name": "No temporary files remain",
+      "pass": true
+    },
+    {
+      "name": "Verified previous files reused without network",
+      "pass": true
+    },
+    {
+      "name": "Corrupt recording excluded, valid other retained",
+      "pass": true
+    },
+    {
+      "name": "HTML cannot be relabelled a real recording",
+      "pass": true
+    },
+    {
+      "name": "Symlinked output directory rejected",
+      "pass": true
+    },
+    {
+      "name": "Redirect target revalidated",
+      "pass": true
+    },
+    {
+      "name": "Declared file size limited",
+      "pass": true
+    },
+    {
+      "name": "Streaming file size limited",
+      "pass": true
+    },
+    {
+      "name": "Equal-power fade energy at intermediate points",
+      "pass": true
+    }
+  ],
+  "passed": 27,
+  "total": 27
+}

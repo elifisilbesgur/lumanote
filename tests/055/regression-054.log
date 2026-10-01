@@ -1,0 +1,70 @@
+PASS Fresh boot schema 3 
+PASS No artificial coin balance 
+PASS Movable existing furniture free ownership 
+PASS Furniture migration idempotent 
+PASS Every decoration has art 
+PASS All 73 placeable decoration images unique 
+PASS 23 furnishings available 
+PASS Opening formatting retains selection 
+PASS Bold only selected text 
+PASS Colour preserves bold and selection 
+PASS Italic and colour combined 
+PASS Bold toggles off without losing colour 
+PASS Underline selected text 
+PASS Toolbar indicates current mark 
+PASS Undo formatting 
+PASS Redo formatting 
+PASS Formatting survives editor reopen 
+PASS Formatting across paragraphs 
+PASS New text adopts selected colour 
+PASS Clear formatting retains contents 
+PASS Formatting leaves title unchanged 
+PASS Long press enters multi selection 
+PASS Tap adds another note 
+PASS Tap deselects a note 
+PASS Select all 
+PASS Bulk actions fixed above navigation 
+PASS Cancel trash retains all notes 
+PASS Bulk trash is reversible 
+PASS Bulk undo restores notes 
+PASS Select all respects search scope 
+PASS Failed bulk save rolls back all notes 
+PASS No redundant garden scenery button 
+PASS No automatic weather/light choices 
+PASS Snow whites the ground 
+PASS Sheet closes by dragging grip 
+PASS Sakura one-time debit 4500 
+PASS Owned mode not charged twice 
+PASS Normal restores existing scenery 
+PASS Purchased mode survives normalized reload 
+PASS Winter defaults snow/night/white 
+PASS Halloween has autumn landscape 
+PASS Insufficient funds blocked 
+PASS Failed mode save refunds state 
+PASS Cabin shop remembers return room 
+PASS Furniture goes inside cabin 
+PASS Furniture arrow placement 
+PASS Removing furniture retains ownership 
+PASS Re-placing owned furniture costs nothing 
+PASS Outdoor preset leaves furniture indoors 
+PASS TV touch turns it off 
+PASS Single drag does not pan garden 
+PASS Zoom retained 
+PASS Fit reset retained 
+PASS Pet name beside normal timer 
+PASS No companion clutter in immersive 
+PASS Landscape timer fits viewport 
+PASS No horizontal overflow garden 320 
+PASS No overflow catalogue 320 
+PASS No horizontal overflow garden 375 
+PASS No overflow catalogue 375 
+PASS No horizontal overflow garden 390 
+PASS No overflow catalogue 390 
+PASS No horizontal overflow garden 430 
+PASS No overflow catalogue 430 
+PASS No horizontal overflow garden 768 
+PASS No overflow catalogue 768 
+PASS Missing real sound cannot play synthesis 
+PASS Real sound passes playback gate 
+PASS No unhandled browser errors 
+RESULT 69 / 69

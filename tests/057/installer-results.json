@@ -1,0 +1,127 @@
+[
+  {
+    "name": "056 update completes",
+    "passed": true,
+    "detail": "PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.\n"
+  },
+  {
+    "name": "Preserved package-lock.json",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Preserved assets/recordings/fire.mp3",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Preserved node_modules/private-marker/module.js",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Preserved private.env",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Dependencies and package version preserved",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Custom npm script preserved",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Expo identity and all extra fields other than version preserved",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Test wallet flag remains enabled",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Backup ZIP integrity verified",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New piano files actually installed",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Ocean/fire unchanged",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Same update is idempotent",
+    "passed": true,
+    "detail": "PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.\n"
+  },
+  {
+    "name": "Disabled test wallet stays disabled",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Test budget kapat command retained",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Test budget ac command retained",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Personal code change stops before writes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Different SDK blocked without writes",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Symbolic source blocked",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Corrupt distribution blocked before mutation",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Failed postwrite verification restores all files",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Failed update leaves no install lock",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Manifest path traversal blocked",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "054 can update directly",
+    "passed": true,
+    "detail": "PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.\n"
+  },
+  {
+    "name": "055 can update directly",
+    "passed": true,
+    "detail": "PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.\n"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "application": "LumaNote",
+  "source_version": "0.5.7",
+  "build": "LUMA-0.5.7-HOME-GREENHOUSE",
+  "package_purpose": "GitHub-ready single source folder; no new application feature version",
+  "packaged_at": "2026-10-01",
+  "source_archive": "LumaNote_v057_Evim_ve_Kis_Bahcem_Tam_Proje.zip",
+  "source_archive_sha256": "920958c6d035d74c25301572c1957aecff21eca12392d06773a6cbf431f8cd7c",
+  "source_application_files_changed": true,
+  "source_package_json_changed": false,
+  "source_app_json_changed": false,
+  "node_modules_included": false,
+  "package_lock_in_source": false,
+  "user_mac_snapshot": false,
+  "phone_data_included": false,
+  "test_coins_switch": false,
+  "pdf_docx_guides_copied_unchanged": true,
+  "prior_release_helpers_preserved": true,
+  "new_test_scope": "Packaging/source/Git local verification only; not npm, Metro, iPhone or full regression testing",
+  "audio_patch": {
+    "id": "CC0-AUDIO-1",
+    "appliedAt": "2026-10-01T00:21:16.144Z",
+    "changedChannels": [
+      "ocean",
+      "fire",
+      "pianoDawn",
+      "pianoSakura"
+    ],
+    "preservedChannels": [
+      "rain",
+      "piano",
+      "pianoMoon",
+      "brown"
+    ],
+    "actualFileDownloads": "Performed locally when this patch was applied"
+  }
+}

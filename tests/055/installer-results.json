@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Plain 054 updates",
+    "passed": true
+  },
+  {
+    "name": "Test wallet disabled if not previously installed",
+    "passed": true
+  },
+  {
+    "name": "package-lock preserved",
+    "passed": true
+  },
+  {
+    "name": "Downloaded audio preserved",
+    "passed": true
+  },
+  {
+    "name": "Unrelated private configuration preserved",
+    "passed": true
+  },
+  {
+    "name": "Dependency versions and package version unchanged",
+    "passed": true
+  },
+  {
+    "name": "Expo slug and identity unchanged",
+    "passed": true
+  },
+  {
+    "name": "Only build metadata changed in app.extra",
+    "passed": true
+  },
+  {
+    "name": "Backup ZIP created and validated",
+    "passed": true
+  },
+  {
+    "name": "Repeat application is idempotent",
+    "passed": true
+  },
+  {
+    "name": "Known wallet addon updates (True)",
+    "passed": true
+  },
+  {
+    "name": "Wallet switch preserved (True)",
+    "passed": true
+  },
+  {
+    "name": "Build includes wallet exactly once (True)",
+    "passed": true
+  },
+  {
+    "name": "Native development gate retained (True)",
+    "passed": true
+  },
+  {
+    "name": "Updated native test-wallet command can disable addon",
+    "passed": true
+  },
+  {
+    "name": "Updated command can enable addon",
+    "passed": true
+  },
+  {
+    "name": "Known wallet addon updates (False)",
+    "passed": true
+  },
+  {
+    "name": "Wallet switch preserved (False)",
+    "passed": true
+  },
+  {
+    "name": "Build includes wallet exactly once (False)",
+    "passed": true
+  },
+  {
+    "name": "Native development gate retained (False)",
+    "passed": true
+  },
+  {
+    "name": "Custom edits rejected without any file writes",
+    "passed": true
+  },
+  {
+    "name": "Different SDK rejected without changing files",
+    "passed": true
+  },
+  {
+    "name": "Symlink source target rejected",
+    "passed": true
+  },
+  {
+    "name": "Spaces in path work",
+    "passed": true
+  },
+  {
+    "name": "Verification failure restores every previous file",
+    "passed": true
+  },
+  {
+    "name": "Rollback removes install lock",
+    "passed": true
+  },
+  {
+    "name": "Manifest traversal rejected with no modifications",
+    "passed": true
+  }
+]

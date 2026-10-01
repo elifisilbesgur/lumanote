@@ -1,0 +1,13 @@
+Önce mevcut proje kodu yedekleniyor…
+No errors detected in compressed data of /tmp/luma055-check-ckiwf25u/home/Desktop/LumaNote_Yedekleri/LumaNote_055_oncesi_2026-09-30T16-49-37-154Z_2617.zip.
+KOD YEDEĞİ DOĞRULANDI: /tmp/luma055-check-ckiwf25u/home/Desktop/LumaNote_Yedekleri/LumaNote_055_oncesi_2026-09-30T16-49-37-154Z_2617.zip
+Bu arşiv telefon verilerini içermez; özel yapılandırmalar içerebilir.
+Arayüz hazır: LUMA-0.5.5-SAKURA-COLLECTION · 5112 KB
+DOĞRULANDI: LUMA-0.5.5-SAKURA-COLLECTION · 40 kaynak kontrolü
+index.js → App.tsx → nocturne/UI_HTML.ts. Gerçek cihaz testi ayrı yapılır.
+
+TAMAMLANDI: LUMA-0.5.5-SAKURA-COLLECTION
+Proje: /tmp/luma055-check-ckiwf25u/plain054
+Test jetonu ayarı: KAPALI
+Paketler, ses kayıtları ve kişisel veriler değiştirilmedi.
+PDF kitaplıkları yok: önizleme hata mesajı gösterecek; npm kurulumu sonrası yeniden üretilecek.

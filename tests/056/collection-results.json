@@ -1,0 +1,277 @@
+[
+  {
+    "name": "055 UI build",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Fresh wallet unchanged; no test budget or seeded purchases",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "30 new catalogue entries",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "24 outdoor and 6 indoor objects",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Every new model is distinct",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No blank model or label fallback",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Positive integer coin prices",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "All prior decorators have models too",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Sakura store tab opens all 30 cards",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Sakura tab announces selected state",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No required mode purchase",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Filter water",
+    "passed": true,
+    "detail": "4 entries"
+  },
+  {
+    "name": "Filter home",
+    "passed": true,
+    "detail": "6 entries"
+  },
+  {
+    "name": "Filter lights",
+    "passed": true,
+    "detail": "8 entries"
+  },
+  {
+    "name": "Filter garden",
+    "passed": true,
+    "detail": "12 entries"
+  },
+  {
+    "name": "Filter all",
+    "passed": true,
+    "detail": "30 entries"
+  },
+  {
+    "name": "Detail sheet has model, description and price",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Insufficient budget does not buy",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buy debits once without fake study time",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Owned item cannot charge twice",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Place uses existing edit mode and selection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Directional arrows still move only selected object",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Failed purchase rolls back",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Can own complete collection",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New ownership survives normalized reload",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Indoor purchase placed in cabin",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Outdoor place exits room mode",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Placing owned objects is free and does not alter seeds",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Koi touch triggers bounded visual interaction",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Animated model jpKoiPond",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Animated model jpFrogPond",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Animated model jpBambooFountain",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Animated model jpWindChime",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Reduced-motion rendering deterministic",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Normal drag does not pan garden",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Zoom remains enabled",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Reset zoom fits garden",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No page overflow at 320",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buy buttons retain touch target 320",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No page overflow at 375",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buy buttons retain touch target 375",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No page overflow at 390",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buy buttons retain touch target 390",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No page overflow at 430",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buy buttons retain touch target 430",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No page overflow at 768",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Buy buttons retain touch target 768",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "No unhandled UI errors",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Explicit development test wallet still grants 100m",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "New shop uses test wallet before real coins",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Reload does not refill spent test budget",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Native gate absent defaults OFF even when switch ON",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Production cleanup removes test-bought new decorations",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Production cleanup preserves pretest owned objects and real balance",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "name": "Cleanup preserves notes and working time",
+    "passed": true,
+    "detail": ""
+  }
+]

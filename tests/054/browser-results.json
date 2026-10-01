@@ -1,0 +1,352 @@
+{
+  "checks": [
+    {
+      "name": "Fresh boot schema 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No artificial coin balance",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Movable existing furniture free ownership",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Furniture migration idempotent",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Every decoration has art",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "All 73 placeable decoration images unique",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "23 furnishings available",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Opening formatting retains selection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Bold only selected text",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Colour preserves bold and selection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Italic and colour combined",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Bold toggles off without losing colour",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Underline selected text",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Toolbar indicates current mark",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Undo formatting",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Redo formatting",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Formatting survives editor reopen",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Formatting across paragraphs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "New text adopts selected colour",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Clear formatting retains contents",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Formatting leaves title unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Long press enters multi selection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Tap adds another note",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Tap deselects a note",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Select all",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Bulk actions fixed above navigation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Cancel trash retains all notes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Bulk trash is reversible",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Bulk undo restores notes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Select all respects search scope",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Failed bulk save rolls back all notes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No redundant garden scenery button",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No automatic weather/light choices",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Snow whites the ground",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sheet closes by dragging grip",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Sakura one-time debit 4500",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Owned mode not charged twice",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Normal restores existing scenery",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Purchased mode survives normalized reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Winter defaults snow/night/white",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Halloween has autumn landscape",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Insufficient funds blocked",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Failed mode save refunds state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Cabin shop remembers return room",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Furniture goes inside cabin",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Furniture arrow placement",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Removing furniture retains ownership",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Re-placing owned furniture costs nothing",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Outdoor preset leaves furniture indoors",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "TV touch turns it off",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Single drag does not pan garden",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Zoom retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Fit reset retained",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Pet name beside normal timer",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No companion clutter in immersive",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Landscape timer fits viewport",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow garden 320",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow catalogue 320",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow garden 375",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow catalogue 375",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow garden 390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow catalogue 390",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow garden 430",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow catalogue 430",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No horizontal overflow garden 768",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No overflow catalogue 768",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Missing real sound cannot play synthesis",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Real sound passes playback gate",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No unhandled browser errors",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "errors": [],
+  "passed": 69,
+  "total": 69
+}
