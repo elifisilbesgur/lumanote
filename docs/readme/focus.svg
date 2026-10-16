@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200" role="img" aria-label="Odak sayacı animasyonu">
+<style>
+ .ring { stroke-dasharray:439.8; stroke-dashoffset:439.8; animation: fill 12s linear infinite; }
+ @keyframes fill { 0% { stroke-dashoffset:439.8 } 80%,100% { stroke-dashoffset:0 } }
+ .coin { opacity:0; animation: coin 12s infinite; }
+ @keyframes coin { 0%,80% { opacity:0; transform: translateY(6px) } 84%,96% { opacity:1; transform: translateY(0) } 100% { opacity:0; transform: translateY(-10px) } }
+ .sprout { transform-box: fill-box; transform-origin: bottom center; animation: grow 12s infinite; }
+ @keyframes grow { 0% { transform: scaleY(.15) } 80%,100% { transform: scaleY(1) } }
+ .leaf { opacity:0; animation: leaf 12s infinite; }
+ @keyframes leaf { 0%,40% { opacity:0 } 50%,100% { opacity:1 } }
+ .leaf2 { opacity:0; animation: leaf2 12s infinite; }
+ @keyframes leaf2 { 0%,62% { opacity:0 } 72%,100% { opacity:1 } }
+ .bloom { opacity:0; animation: bloom 12s infinite; transform-box: fill-box; transform-origin:center; }
+ @keyframes bloom { 0%,78% { opacity:0; transform:scale(.3) } 84%,100% { opacity:1; transform:scale(1) } }
+ .m { opacity:0; animation: m 12s infinite; }
+ .m1 { animation-delay:0s } .m2 { animation-delay:-9.6s }
+ @media (prefers-reduced-motion: reduce) { * { animation:none !important; } .ring { stroke-dashoffset:0 } .leaf,.leaf2,.bloom,.coin { opacity:1 } }
+</style>
+<rect width="360" height="200" rx="18" fill="#141a2b"/>
+<circle cx="100" cy="100" r="70" fill="none" stroke="#262e45" stroke-width="10"/>
+<circle class="ring" cx="100" cy="100" r="70" fill="none" stroke="#c9b8ff" stroke-width="10" stroke-linecap="round" transform="rotate(-90 100 100)"/>
+<rect x="92" y="122" width="16" height="10" fill="#8a5a3a"/>
+<rect x="90" y="118" width="20" height="5" fill="#a06a44"/>
+<rect class="sprout" x="98" y="70" width="4" height="48" fill="#5aa36d"/>
+<rect class="leaf" x="86" y="94" width="12" height="6" rx="3" fill="#7cc29a"/>
+<rect class="leaf2" x="102" y="82" width="12" height="6" rx="3" fill="#7cc29a"/>
+<g class="bloom"><rect x="94" y="62" width="12" height="12" rx="3" fill="#f4a7c3"/><rect x="98" y="66" width="4" height="4" fill="#ffd27a"/></g>
+<text x="196" y="86" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#a99bd6" letter-spacing="3">POMODORO</text>
+<text x="194" y="122" font-family="'Iowan Old Style',Palatino,Georgia,serif" font-size="38" fill="#f5f0ff">25:00</text>
+<g class="coin"><circle cx="207" cy="148" r="8" fill="#ffd27a"/><circle cx="207" cy="148" r="4" fill="none" stroke="#c99a3a" stroke-width="2"/>
+<text x="222" y="153" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#ffd27a">+ jeton</text></g>
+</svg>
